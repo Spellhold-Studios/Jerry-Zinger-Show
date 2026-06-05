@@ -26,15 +26,24 @@
 @24  = ~Venite, venite tutti! Per il Jerry Zinger show, da questa parte.~ 
 @25  = ~Richiesto Throne of Bhaal.~ 
 
+// untraified content - barkeeper store //
+@31  = ~Cola~
+@32  = ~Coffee~
+@33  = ~Cheap Beer~
+@34  = ~House White~
+@35  = ~Gin & Tonic~
+@36  = ~XXXX Spirits~
+@37  = ~Definitely Not Tea~
+
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP1 - "My ex is an evil mastermind" (Irenicus, Ellesime) 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@100  = ~Bene, gente, incontriamo il nostro primo ospite. E' un genio malvagio che vuole distruggere una citt‡.~ [JZ101] 
+@100  = ~Bene, gente, incontriamo il nostro primo ospite. E' un genio malvagio che vuole distruggere una citt√†.~ [JZ101] 
 @101  = ~Salutiamo Jon Irenicus!~ [JZ102] 
 @102  = ~Ciao, Jerry. Adoro il tuo show.~ [JZBLANK] 
 @103  = ~Ora, capisco che stai complottando qualcosa. Ora, cosa ci puoi dire di questo?~ [JZ103] 
-@104  = ~AvrÚ la mia vendetta su quella cagna di Ellesime! Rubare l'anima di <CHARNAME> Ë stato il primo passo-~ 
-@105  = ~Bene, Jon, abbiamo una sorpresa per te! Qui con noi c'Ë... Ellesime!~ [JZ104] 
+@104  = ~Avr√≤ la mia vendetta su quella cagna di Ellesime! Rubare l'anima di <CHARNAME> √® stato il primo passo-~ 
+@105  = ~Bene, Jon, abbiamo una sorpresa per te! Qui con noi c'√®... Ellesime!~ [JZ104] 
 @106  = ~Ciao, Jon.~ 
 @107  = ~Osi venire di fronte a me? Mi hai esiliato! Un attimo prima stavo dormendo sul divano, poi mi hai rubato l'anima ed ora QUESTO!~ 
 @108  = ~Jon, stavo solo cercando di fare la cosa migliore per Suldenesselar-~ 
@@ -42,21 +51,21 @@
 @110  = ~Chi (beep) pensi di essere, tu (beep) di (beep)?! Tu, schifoso pezzo di (beep)!~ [JZBEEP3] 
 @111  = ~Porca tr-~ 
 @112  = ~Bene... penso che oggi abbiamo imparato che abbiamo bisogno di un po' di redenzione nelle nostre relazioni. Ora ricordatevelo, fino alla prossima volta.~ [JZ105] 
-@113  = ~Il mio ex Ë un genio del male! 
-Chi l'avrebbe detto? Al Jerry Zinger show di oggi ho visto men che meno che Jon Irenicus! Le ha suonate a una donna di nome Ellesime, ed anche le guardie di sicurezza prima di scomparire. Davvero impressionante; dovrÚ essere prudente prima di scontrarmi con lui.~ 
+@113  = ~Il mio ex √® un genio del male! 
+Chi l'avrebbe detto? Al Jerry Zinger show di oggi ho visto men che meno che Jon Irenicus! Le ha suonate a una donna di nome Ellesime, ed anche le guardie di sicurezza prima di scomparire. Davvero impressionante; dovr√≤ essere prudente prima di scontrarmi con lui.~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP2 - "Racial tension" - (Korgan) 
 // ------------------------------------------------------------------------------------------------------------------------ 
 @200  = ~Benvenuti al Jerry Zinger show! Vi prego di accogliere il celebre attaccabrighe e guerriero, Korgan, allo show!~ [JZ201] 
-@201  = ~Ora, credo che tu abbia qualcosa da dire sulle ìtensioni razzialiî, giusto?~ [JZ202] 
-@202  = ~SÏ! Odio gli elfi, quelli con le gambe lunghe e tutta la gente dell'Amn.~ 
-@203  = ~Ok, bene, sia da il caso che abbiamo proprio alcuni elfi, alcuni ìgambe lungheî... cioË, uh, umani, e il nostro pubblico Ë composto per la maggior parte da gente dell'Amn.~ [JZ203] 
-@204  = ~Ora, qui c'Ë un ascia. Allora, dimmi, che cosa ne farai?~ [JZ204] 
+@201  = ~Ora, credo che tu abbia qualcosa da dire sulle ‚Äútensioni razziali‚Äù, giusto?~ [JZ202] 
+@202  = ~S√¨! Odio gli elfi, quelli con le gambe lunghe e tutta la gente dell'Amn.~ 
+@203  = ~Ok, bene, sia da il caso che abbiamo proprio alcuni elfi, alcuni ‚Äúgambe lunghe‚Äù... cio√®, uh, umani, e il nostro pubblico √® composto per la maggior parte da gente dell'Amn.~ [JZ203] 
+@204  = ~Ora, qui c'√® un ascia. Allora, dimmi, che cosa ne farai?~ [JZ204] 
 @205  = ~Si parte!~ 
 @206  = ~Penso che possiamo imparare molto da oggi. Moderazione e tolleranza sono molto importanti, e, hey, tutti quanti abbiamo bisogno di sfogarci di tanto in tanto. Buon <DAYNIGHT>!~ [JZ205] 
 @207  = ~Tensioni razziali 
-Korgan Ë entrato in una furia omicida al Jeryy Zinger show di oggi. Ha ucciso molta gente. Molto imbarazzante. Devo chiedergli di non farlo pi˘.~ 
+Korgan √® entrato in una furia omicida al Jeryy Zinger show di oggi. Ha ucciso molta gente. Molto imbarazzante. Devo chiedergli di non farlo pi√π.~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP3 - "Leaving with my lover" (Rumar) 
@@ -65,47 +74,47 @@ Korgan Ë entrato in una furia omicida al Jeryy Zinger show di oggi. Ha ucciso mo
 @301  = ~Cosa? Ma pensavo foste morti!~ [JZRUMAR1] 
 @302  = ~Um... um...~ 
 @303  = ~Er... beh...~ 
-@304  = ~Non c'Ë qualcosa che voi due vorreste dire a Rumar?~ [JZ302] 
+@304  = ~Non c'√® qualcosa che voi due vorreste dire a Rumar?~ [JZ302] 
 @305  = ~Era una finzione, abbiamo usato uno di quegli aggeggi che spruzzano sangue...~ 
 @306  = ~Vedi, Rumar, ti stiamo lasciando. Stiamo scappando insieme.~ 
 @307  = ~Ci amiamo.~ 
 @308  = ~(bacia Priss)~ [JZKISS] 
 @309  = ~(abbraccia Tiana)~ 
-@310  = ~Ma... perchË? La finzione? La messinscena? Per l'amore di Helm, perchË?~ [JZRUMAR2] 
+@310  = ~Ma... perch√®? La finzione? La messinscena? Per l'amore di Helm, perch√®?~ [JZRUMAR2] 
 @311  = ~Volevamo risparmiarti l'umiliazione che si sapesse che tua moglie e la tua amante fossero scappate insieme.~ 
 @312  = ~Non volevamo l'umiliazione pubblica!~ 
 @313  = ~Se i tuoi amici lo scoprissero, Rumar...~ 
 @314  = ~Se loro lo scoprissero... oh.~ 
 @315  = ~(ahem)~ [JZ303] 
-@316  = ~Bene, Tiana, Priss, Ë stato gentile da parte vostra aver pensato a me... sono ancora sconvolto. Voglio davvero augurare ad entrambe tutta la felicit‡ possibile.~ [JZRUMAR3] 
+@316  = ~Bene, Tiana, Priss, √® stato gentile da parte vostra aver pensato a me... sono ancora sconvolto. Voglio davvero augurare ad entrambe tutta la felicit√† possibile.~ [JZRUMAR3] 
 @317  = ~Ma... sai gli amici nobili con i quali trascorro il mio tempo? Um... non hai mai notato che siamo tutti ragazzi e che facciamo un sacco di feste? Voglio dire... tutti quei vestiti rosa che indossiamo!~ [JZRUMAR4] 
-@318  = ~Beh, sÏ...~ 
+@318  = ~Beh, s√¨...~ 
 @319  = ~Quindi lo avevi intuito?~ [JZRUMAR7] 
 @320  = ~Intuito cosa?~ 
 @321  = ~Oh, nulla! Vi saluto ora, e buona fortuna.~ 
-@322  = ~Rumar, tesoro! Ora possiamo stare insieme senza le complicazioni delle tue ñ urgh - donne!~ [JZWILLY1] 
+@322  = ~Rumar, tesoro! Ora possiamo stare insieme senza le complicazioni delle tue ‚Äì urgh - donne!~ [JZWILLY1] 
 @323  = ~Sir William! Beh, sembra che Maria fosse del tutto onesta quando dichiarava che la sua relazione con Sir William era platonica! Grazie, <CHARNAME>, per avermi consigliato di non coinvolgere la legge in questa faccenda!~ 
 @324  = ~Guardando indietro con il senno di poi, avrei dovuto sospettare qualcosa quando vidi la calzamaglia rosa e la tunica di quel verde chartreuse.~ 
-@325  = ~Verde thorpe, zucchero, sÏ!~ [JZRUMAR6] 
-@326  = ~Bene, la vista di due coppie alla fine unite Ë quasi magnifica quanto il mio conto in banca. Penso che ne siamo usciti tutti scossi, quindi senza altri indugi, buon <DAYNIGHT>!~ [JZ304] 
+@325  = ~Verde thorpe, zucchero, s√¨!~ [JZRUMAR6] 
+@326  = ~Bene, la vista di due coppie alla fine unite √® quasi magnifica quanto il mio conto in banca. Penso che ne siamo usciti tutti scossi, quindi senza altri indugi, buon <DAYNIGHT>!~ [JZ304] 
 @327  = ~Scappo con la mia amante
 Ho visto due coppie unite al Jerry Zinger show di oggi. Il pubblico sembrava davvero eccitato, per qualche ragione.~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP4 - "Families Reunited" (Aerie) 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@400  = ~Buona giornata, e benvenuti al Jerry Zinger show. Oggi, il nostro primo ospite Ë una bellissima incantatrice elfica.~ [JZ401] 
+@400  = ~Buona giornata, e benvenuti al Jerry Zinger show. Oggi, il nostro primo ospite √® una bellissima incantatrice elfica.~ [JZ401] 
 @401  = ~Vi prego, un applauso per... Aerie!~ [JZ402] 
 @402  = ~(arrossisce) Ciao, Jerry.~ [JZBLANK] 
-@403  = ~Ora, Aerie, sei stata strappata dalla tua famiglia dagli schiavisti nella tua infanzia. Ti hanno tenuta in una gabbia e alla fine le tue ali sono cadute per lo stress. Non hai mai pi˘ rivisto i tuoi genitori, e senza dubbio finora hanno pensato che fossi morta...~ [JZ403] 
-@404  = ~Bene, abbiamo una sorpresa per te, perchË con noi ci sono i GENITORI DI AERIE!~ [JZ404] 
+@403  = ~Ora, Aerie, sei stata strappata dalla tua famiglia dagli schiavisti nella tua infanzia. Ti hanno tenuta in una gabbia e alla fine le tue ali sono cadute per lo stress. Non hai mai pi√π rivisto i tuoi genitori, e senza dubbio finora hanno pensato che fossi morta...~ [JZ403] 
+@404  = ~Bene, abbiamo una sorpresa per te, perch√® con noi ci sono i GENITORI DI AERIE!~ [JZ404] 
 @405  = ~Madre? Ma...~ [JZBLANK] 
 @406  = ~Aerie (abbraccio)!~ 
 @407  = ~Ok, portate il PADRE DI AERIE!~ [JZ405] 
 @408  = ~(abbraccio)~ [JZBLANK] 
 @409  = ~(abbraccio)~ 
 @410  = ~(abbracciato)~ [JZBLANK] 
-@411  = ~Madre... Padre... sono cosÏ felice!~ 
+@411  = ~Madre... Padre... sono cos√¨ felice!~ 
 @412  = ~Signore e signori, un forte applauso per la nostra famiglia riunita! E chi ha detto che non facciamo mai nulla di utile al Jerry Zinger show? Ora, i genitori di Aerie hanno qualcosa da dire alla loro adorata figlia. Alla prossima  (occhiolino).~ [JZ406] 
 @413  = ~Famiglia riunita
 Aerie e i suoi genitori si sono riuniti al Jerry Zinger show! Incredibile, dopo tutti quegli anni di separazione. Sembrerebbe abbiamo qualcosa da rivelare ad Aerie, ma dovremo tornare allo show per scoprire di cosa si tratta.~ 
@@ -113,19 +122,19 @@ Aerie e i suoi genitori si sono riuniti al Jerry Zinger show! Incredibile, dopo 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP5 - (No name) 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@500  = ~Questo Ë il Jerry Zinger show, ed io sono Jerry Zinger! Oggi, vorrei dare il benvenuto alla squadra lesbica di wrestling Budino di Athkatla!~ [JZ501] 
-@501  = ~Come butta, cugino. Com'Ë il raccolto di oggi?~ 
-@502  = ~Bene, abbiamo quasi un mezzo sacco di rape, ma come al solito quasi tutti i pomodori si sono spappolati. Ho salvato questo qui per te, cugino, perchË so quanto li adori.~ 
-@503  = ~Grazie! Lo apprezzo, dato che oggi Ë il mio turno di fare il bersaglio.~ 
-@504  = ~SÏ, questo sar‡ il miglior raggiro di sempre, cugino! Tutto ciÚ che dobbiamo fare Ë comportarci come idioti e la gente ci getter‡ il cibo addosso.~ 
-@505  = ~Giusto. E' un classico esempio dello scontro dialettico tra i lavoratori della terra che appena si sfamano e gli abitanti industrializzati delle citt‡. Le loro vite sono cosÏ miserabili e insignificanti che progettano automaticamente ostilit‡ contro qualsiasi altra classe sociale che percepiscono come a loro inferiore, e noi diventiamo automaticamente l'incarnazione di tutto ciÚ che disprezzano tra loro ñ pregiudizio, avidit‡, stupidit‡ e lussuria ñ e ci lanciano addosso le verdure!~ 
-@506  = ~Tutto ciÚ di cui abbiamo bisogno Ë un amuleto di protezione, cosÏ le verdure non ci faranno molto male, ed Ë tutto gratis!~ 
-@507  = ~SÏ... mi chiedo quanto otterremo dal bottino di rape odierno nel ghetto degli gnomi? Il bottino di ieri Ë pronto per la vendita?~ 
+@500  = ~Questo √® il Jerry Zinger show, ed io sono Jerry Zinger! Oggi, vorrei dare il benvenuto alla squadra lesbica di wrestling Budino di Athkatla!~ [JZ501] 
+@501  = ~Come butta, cugino. Com'√® il raccolto di oggi?~ 
+@502  = ~Bene, abbiamo quasi un mezzo sacco di rape, ma come al solito quasi tutti i pomodori si sono spappolati. Ho salvato questo qui per te, cugino, perch√® so quanto li adori.~ 
+@503  = ~Grazie! Lo apprezzo, dato che oggi √® il mio turno di fare il bersaglio.~ 
+@504  = ~S√¨, questo sar√† il miglior raggiro di sempre, cugino! Tutto ci√≤ che dobbiamo fare √® comportarci come idioti e la gente ci getter√† il cibo addosso.~ 
+@505  = ~Giusto. E' un classico esempio dello scontro dialettico tra i lavoratori della terra che appena si sfamano e gli abitanti industrializzati delle citt√†. Le loro vite sono cos√¨ miserabili e insignificanti che progettano automaticamente ostilit√† contro qualsiasi altra classe sociale che percepiscono come a loro inferiore, e noi diventiamo automaticamente l'incarnazione di tutto ci√≤ che disprezzano tra loro ‚Äì pregiudizio, avidit√†, stupidit√† e lussuria ‚Äì e ci lanciano addosso le verdure!~ 
+@506  = ~Tutto ci√≤ di cui abbiamo bisogno √® un amuleto di protezione, cos√¨ le verdure non ci faranno molto male, ed √® tutto gratis!~ 
+@507  = ~S√¨... mi chiedo quanto otterremo dal bottino di rape odierno nel ghetto degli gnomi? Il bottino di ieri √® pronto per la vendita?~ 
 @508  = ~E' stato nella tinozza tutta la notte, quindi l'acqua deve averne aumentato il peso di cinque o sei chili. E' l'ora di vendere!~ 
 @509  = ~Bene! Devo ammettere di non veder delle rape usate in questo modo da quando mio cugino di secondo grado Archie mise i suoi famigliari nel negozio. Aveva un emporio di verdure al mercato, sai. Era uno gnomo con un grande senso degli affari!~ 
 @510  = ~Ne sono sicuro, Jan. Ora andiamo.~ 
 @511  = ~SILENZIO, DANNAZIONE!~ 
-@512  = ~Ah beh, Ë un modo per guadagnarsi il pane, credo.~ 
+@512  = ~Ah beh, √® un modo per guadagnarsi il pane, credo.~ 
 @513  = ~(Attaccali)~ 
 @514  = ~Ciao! Wow, tu sei Jerry Zinger!~ 
 @515  = ~Adoro lo show!~ 
@@ -133,19 +142,19 @@ Aerie e i suoi genitori si sono riuniti al Jerry Zinger show! Incredibile, dopo 
 @517  = ~Ho molti problemi di cui parlarti, se lo desideri. Vuoi che te li racconti?~ 
 @518  = ~WOW! E' vera quella mazza?~ [GENMG15] 
 @519  = ~Hey, non ci dovrebbero essere delle lesbiche in giro?~ 
-@520  = ~E' davvero <CHARNAME> quello laggi˘? E' DAVVERO fico...~ [GENMG15] 
+@520  = ~E' davvero <CHARNAME> quello laggi√π? E' DAVVERO fico...~ [GENMG15] 
 @521  = ~Non guardarmi in quel modo...~ 
 @522  = ~Mi stai spaventando!~ [GENMG15] 
 @523  = ~Uh... beh, temo che abbiamo tempo solo per questo.~ [JZ502] 
 @524  = ~Jerry Zinger Show 
-Alcuni tizi a caso sono saliti sul palco al Jerry Zinger show. Il pubblico lo ha bersagliato con della frutta marcia finchË non Ë scappato. Ma che diavolo Ë successo?~ 
+Alcuni tizi a caso sono saliti sul palco al Jerry Zinger show. Il pubblico lo ha bersagliato con della frutta marcia finch√® non √® scappato. Ma che diavolo √® successo?~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP6 - "Knights who wear Lingerie and the women who love them" (Keldorn) 
 // ------------------------------------------------------------------------------------------------------------------------ 
 @600  = ~Oggi allo show, cavalieri che indossano lingerie volgare e donne che li amano! Vi prego di dare il benvenuto a Sir Keldorn Firecam e Sir Ryan Trawl!~ [JZ601] 
 @601  = ~Avremo anche una apparizione dell'ospite Anomen Delryn!~ [JZ602] 
-@602  = ~Keldorn, cosa significa tutto ciÚ?~ 
+@602  = ~Keldorn, cosa significa tutto ci√≤?~ 
 @603  = ~Maria! Cosa stai facendo qui?~ 
 @604  = ~(ahem) Non pensarci ora.~ [JZ603] 
 @605  = ~"Lingerie volgare"? Keldorn, quest'orribile, disgustoso uomo ti sta facendo delle accuse terribili, una vile calunnia, un fiume di odiose bugie e menzogne! Non lo farai a pezzi per questo?~ 
@@ -155,29 +164,29 @@ Alcuni tizi a caso sono saliti sul palco al Jerry Zinger show. Il pubblico lo ha
 @609  = ~L'ARMATURA?~ 
 @610  = ~Si, l'armatura. L'hai visto, Maria, quando mi hai aiutato a indossare la sotto-tunica.~ 
 @611  = ~La sotto-tunica?~ 
-@612  = ~SÏ, la sotto-tunica... fatta di strati di feltro spesso, cosÏ spesso da aver bisogno di una settimana per asciugarsi, ed anni per entrarci. Non riesci mai a sbarazzarti del prurito di quel feltro cosÏ grezzo. E' gi‡ insopportabile sulle braccia, sulle gambe, sul torso, ma lÏ... proprio lÏ... sai cosa intendo...~ 
+@612  = ~S√¨, la sotto-tunica... fatta di strati di feltro spesso, cos√¨ spesso da aver bisogno di una settimana per asciugarsi, ed anni per entrarci. Non riesci mai a sbarazzarti del prurito di quel feltro cos√¨ grezzo. E' gi√† insopportabile sulle braccia, sulle gambe, sul torso, ma l√¨... proprio l√¨... sai cosa intendo...~ 
 @613  = ~Oh, capisco!~ 
-@614  = ~So che hai bisogno dell'imbottitura della sotto-tunica per reggere i colpi sull'armatura, e so perfettamente quanto puzzolente e scomoda sia quella cosa... e posso certamente capire la situazione con il tuo ìsai cosa intendoî.~ 
-@615  = ~CosÏ, anni fa, mi vergogno ad ammetterlo, ho rubato dei tuoi capi in seta prima di partire per una campagna del Nobilissimo Cuore Radioso. Altrimenti mi sarei disonorato dovendomi grattare il mio ìsai cosa intendoî. Ha salvato la mia dignit‡ e ha reso sopportabile la campagna. Poi, alcuni dei mie compagni d'armi lo scoprirono.~ 
-@616  = ~Quindi, quella biancheria intima di pizzo rosso che ho ordinato dal Calimshan, con i cuc˘ ricamati che pensavo avesse rubato Vesper?~ 
+@614  = ~So che hai bisogno dell'imbottitura della sotto-tunica per reggere i colpi sull'armatura, e so perfettamente quanto puzzolente e scomoda sia quella cosa... e posso certamente capire la situazione con il tuo ‚Äúsai cosa intendo‚Äù.~ 
+@615  = ~Cos√¨, anni fa, mi vergogno ad ammetterlo, ho rubato dei tuoi capi in seta prima di partire per una campagna del Nobilissimo Cuore Radioso. Altrimenti mi sarei disonorato dovendomi grattare il mio ‚Äúsai cosa intendo‚Äù. Ha salvato la mia dignit√† e ha reso sopportabile la campagna. Poi, alcuni dei mie compagni d'armi lo scoprirono.~ 
+@616  = ~Quindi, quella biancheria intima di pizzo rosso che ho ordinato dal Calimshan, con i cuc√π ricamati che pensavo avesse rubato Vesper?~ 
 @617  = ~La indosso proprio ora.~ 
-@618  = ~Ti posso assolutamente assicurare di non aver mai indossato nulla di cosÏ effeminato da doverlo nascondere!~ 
+@618  = ~Ti posso assolutamente assicurare di non aver mai indossato nulla di cos√¨ effeminato da doverlo nascondere!~ 
 @619  = ~Uh...~ [JZ604] 
 @620  = ~Eeek!  La signora pelosa mi sta spaventando!~ [JZBABE] 
 @621  = ~Giuro che si tratta solo di un terribile equivoco! Non indosserei mai questo genere di abbigliamento!~ 
-@622  = ~Oh caro. PerchË non ordini semplicemente al nostro sarto degli indumenti intimi di seta?~ 
-@623  = ~Maria, Ë semplicemente un espediente militare per una ragione di comodit‡ e igiene!~ 
-@624  = ~SÏ, giusto.~ [JZ605] 
+@622  = ~Oh caro. Perch√® non ordini semplicemente al nostro sarto degli indumenti intimi di seta?~ 
+@623  = ~Maria, √® semplicemente un espediente militare per una ragione di comodit√† e igiene!~ 
+@624  = ~S√¨, giusto.~ [JZ605] 
 @625  = ~Silenzio, canaglia!~ 
-@626  = ~Er, non tutte le cose di seta che ho sono cosÏ comode. Sai, mi mancano alcuni dei miei perizoma.~ 
+@626  = ~Er, non tutte le cose di seta che ho sono cos√¨ comode. Sai, mi mancano alcuni dei miei perizoma.~ 
 @627  = ~(ahem) Temo che dovrai chiedere a Vesper per quelli.~ 
 @628  = ~(bisbiglia) Grazie, Keldorn.~ 
-@629  = ~Bene, ti perdonerÚ questa volta, ma solo-~ 
+@629  = ~Bene, ti perdoner√≤ questa volta, ma solo-~ 
 @630  = ~solo se li indosserai per me stanotte...~ 
 @631  = ~Affare fatto!~ 
 @632  = ~Ti amo, Keldorn Firecam!~ 
 @633  = ~Ed io amo te, Maria Priscilla Firecam!~ 
-@634  = ~Beh, Ë un bel cambiamento vedere una coppia cosÏ felice. Ricordate, gente, portate i problemi intimi vostri, degli amici e di chi amate al Jerry Zinger show Ë un bene per tuttÏ!~ [JZ606] 
+@634  = ~Beh, √® un bel cambiamento vedere una coppia cos√¨ felice. Ricordate, gente, portate i problemi intimi vostri, degli amici e di chi amate al Jerry Zinger show √® un bene per tutt√¨!~ [JZ606] 
 @635  = ~Cavalieri in lingerie 
 Keldorn non vuole ancora parlare di quello che abbiamo scoperto oggi al Jerry Zinger show. Questo spiega la sua riservatezza nell'indossare la sua armatura. Intimo da donnicciola, davvero!~ 
 
@@ -187,48 +196,48 @@ Keldorn non vuole ancora parlare di quello che abbiamo scoperto oggi al Jerry Zi
 @700  = ~Benvenuti allo show! Oggi i nostri ospiti sono Sebastian e Steve, due gnomi banditi!~ [JZ701] 
 @701  = ~Datemi tutto il vostro oro, o le vostre ginocchia saranno mie!~ [JZSEB01] 
 @702  = ~GINOCCHIO!~ [JZSF1] 
-@703  = ~No, Steve, Ë ìle vostre ginocchia saranno mie!î. Prova a dirlo correttamente.~ [JZSEB02] 
+@703  = ~No, Steve, √® ‚Äúle vostre ginocchia saranno mie!‚Äù. Prova a dirlo correttamente.~ [JZSEB02] 
 @704  = ~Um... bene, Sebastian, mi sembra che il tuo amico sia un tantino...~ [JZ702] 
-@705  = ~Lento. Ma Ë un bravo ragazzo, sai?~ [JZSEB03] 
+@705  = ~Lento. Ma √® un bravo ragazzo, sai?~ [JZSEB03] 
 @706  = ~Allora, dicci, come vanno gli affari?~ [JZ703] 
-@707  = ~Vanno bene, Jerry, dannatamente bene! PerchË, ora siamo cosÏ famosi e ci siamo fatti un nome, un nome che fa farsela addosso per la paura a tutti i mercanti sulla strada per Trademeet quando lo sentono!~ [JZSEB04] 
+@707  = ~Vanno bene, Jerry, dannatamente bene! Perch√®, ora siamo cos√¨ famosi e ci siamo fatti un nome, un nome che fa farsela addosso per la paura a tutti i mercanti sulla strada per Trademeet quando lo sentono!~ [JZSEB04] 
 @708  = ~LO GNOMO CHE DICE "GINOCCHIO"!~ [JZSF2] 
 @709  = ~Capisco...~ [JZ704] 
 @710  = ~Beh, funziona, eh?~ [JZSEB05] 
-@711  = ~Quindi, Sebastian, qual Ë stato il vostro pi˘ grande colpo di recente?~ [JZ705] 
+@711  = ~Quindi, Sebastian, qual √® stato il vostro pi√π grande colpo di recente?~ [JZ705] 
 @712  = ~Uh... beh, poco tempo fa ci siamo impossessati di un grosso carico di-~ [JZSEB06] 
 @713  = ~ARBUSTI!~ [JZSF3] 
-@714  = ~SÏ! Arbusti, giusto... quegli speciali arbusti di Maztlan venduti per migliaia di monete per pianta ñ Ë quello che ci vuole!~ [JZSEB07] 
+@714  = ~S√¨! Arbusti, giusto... quegli speciali arbusti di Maztlan venduti per migliaia di monete per pianta ‚Äì √® quello che ci vuole!~ [JZSEB07] 
 @715  = ~Quindi, Sebatsian, sta andando bene ad entrambi? Fate soldi a palate?~ [JZ706] 
 @716  = ~Sicuro! Che possa abbattere un albero con un aringa se sto mentendo!~ [JZSEB08] 
-@717  = ~Ma davvero? Vediamo qual Ë l'ospite a sorpresa che ha qualcosa da dirci a proposito...~ [JZ707] 
+@717  = ~Ma davvero? Vediamo qual √® l'ospite a sorpresa che ha qualcosa da dirci a proposito...~ [JZ707] 
 @718  = ~Vi prego di dare il benvenuto sul palco a Bubbles!~ [JZ708] 
-@719  = ~Ciao Steve! Ciao laggi˘, Sebastian.~ 
-@720  = ~Urm... di cosa vuoi parlare, Bubbles? Se questo Ë il tuo nome! Non ti ho mai visto prima, mai e poi mai!~ [JZSEB09] 
+@719  = ~Ciao Steve! Ciao laggi√π, Sebastian.~ 
+@720  = ~Urm... di cosa vuoi parlare, Bubbles? Se questo √® il tuo nome! Non ti ho mai visto prima, mai e poi mai!~ [JZSEB09] 
 @721  = ~Ginocchio?~ [JZSF4] 
-@722  = ~Hey, che stai dicendo? Sono io, Bubbles... ti faccio da coro quando ti esibisci nello spettacolo serale tutto maschile al nove di ogni mese sul ìpalco specialeî alla Moneta di Rame!~ 
+@722  = ~Hey, che stai dicendo? Sono io, Bubbles... ti faccio da coro quando ti esibisci nello spettacolo serale tutto maschile al nove di ogni mese sul ‚Äúpalco speciale‚Äù alla Moneta di Rame!~ 
 @723  = ~Non so di cosa tu stia parlando!~ [JZSEB10] 
-@724  = ~Ma sÏ che lo sai. Ricordi quando mi hai detto che il fare il bandito vi stava facendo morire di fame che eri costretto a fare come secondo lavoro lo spogliarellista nello spettacolo danzante maschile messo su da madame Nin.~ 
+@724  = ~Ma s√¨ che lo sai. Ricordi quando mi hai detto che il fare il bandito vi stava facendo morire di fame che eri costretto a fare come secondo lavoro lo spogliarellista nello spettacolo danzante maschile messo su da madame Nin.~ 
 @725  = ~Beh, ti avevo chiesto quanto stretto fosse quel vestito di lattice che ti facevano indossare, e ti ho dato qualche dritta per la parrucca bionda con le treccine, e su come imbellettarsi le guance e il naso e su come attaccare quelle grossa ciglia finte...~ 
 @726  = ~(gorgoglio)~ [JZSEB11] 
-@727  = ~E continuavi lamentandoti di quanto ti facesse male la gola cantando in falsetto, particolarmente in quel vestito di lattice, e di come ti sentivi quando stavi per uscirtene con quella cosa cantando ìIl lecca lecca del bel battelloî e ballavi e ballavi il tip tap durante il numero...~ 
+@727  = ~E continuavi lamentandoti di quanto ti facesse male la gola cantando in falsetto, particolarmente in quel vestito di lattice, e di come ti sentivi quando stavi per uscirtene con quella cosa cantando ‚ÄúIl lecca lecca del bel battello‚Äù e ballavi e ballavi il tip tap durante il numero...~ 
 @728  = ~(sob)~ [JZSEB12] 
 @729  = ~(abbraccia Sebastian)~ 
 @730  = ~Bene, gente, sembra che il crimine non paghi. Almeno non molto. Grazie a tutti per essere venuti, e alla prossima! Io sono Jerry Zinger.~ [JZ709] 
 @731  = ~Gnomi di lattice 
-E' triste vedere degli gnomi cosÏ grandi ridotti in attivit‡ cosÏ depravate.~ 
+E' triste vedere degli gnomi cos√¨ grandi ridotti in attivit√† cos√¨ depravate.~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP8 - "My husband's mistress" (Viconia, Keldorn) 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@800  = ~E' il numero uno. E' il sogno delle signore. E' come il whiskey tra gli uomini ñ migliora con l'et‡!~ [JZ801] 
+@800  = ~E' il numero uno. E' il sogno delle signore. E' come il whiskey tra gli uomini ‚Äì migliora con l'et√†!~ [JZ801] 
 @801  = ~Signore e signori, diamo il benvenuto a Sir Keldorn Firecam!~ [JZ802] 
 @802  = ~Buon <DAYNIGHT> a te, Jerry.~ [JZBLANK] 
 @803  = ~Ho sentito che sei molto occupato con il Nobilissimo Ordine. Non hai il tempo per goderti i tuoi cari, eh?~ [JZ803] 
-@804  = ~Essere un paladino del Nobilissimo Ordine Ë un lavoro duro, Jerry, temo.~ 
-@805  = ~Beh, cosa diresti se ti dicessi che dietro le quinte c'Ë qualcuno che aspetta e che non vedi da molto tempo?~ [JZ804] 
+@804  = ~Essere un paladino del Nobilissimo Ordine √® un lavoro duro, Jerry, temo.~ 
+@805  = ~Beh, cosa diresti se ti dicessi che dietro le quinte c'√® qualcuno che aspetta e che non vedi da molto tempo?~ [JZ804] 
 @806  = ~Davvero? Chi?~ 
-@807  = ~Beh, ovviamente Ë tua moglie! Gente, diamo il benvenuto a Lady Firecam!~ [JZ805] 
+@807  = ~Beh, ovviamente √® tua moglie! Gente, diamo il benvenuto a Lady Firecam!~ [JZ805] 
 @808  = ~Ciao, Jerry. Grazie per avermi invitata.~ 
 @809  = ~Maria! Sono felicissimo di vederti.~ 
 @810  = ~Certo, certo.~ 
@@ -236,7 +245,7 @@ E' triste vedere degli gnomi cosÏ grandi ridotti in attivit‡ cosÏ depravate.~
 @812  = ~Ora, Lady Maria, cosa volevi dire a tuo marito?~ [JZ806] 
 @813  = ~Voglio divorziare da te, schifoso invecchiato due volte (beep)!~ [JZBEEP2] 
 @814  = ~Ma... Maria! Cosa mi stai dicendo?~ [JZBLANK] 
-@815  = ~Ti dico di quella drow con la quale stai (beep)ando da un paio di anni a questa parte, tu (beep)issimo bastardo. Nobilissimo cuore radioso! Ha! Col cavolo! Sei pi˘ un radiosissimo (beep)!~ [JZBEEP3] 
+@815  = ~Ti dico di quella drow con la quale stai (beep)ando da un paio di anni a questa parte, tu (beep)issimo bastardo. Nobilissimo cuore radioso! Ha! Col cavolo! Sei pi√π un radiosissimo (beep)!~ [JZBEEP3] 
 @816  = ~Ma io odio i drow, Maria. Lo sanno tutti.~ 
 @817  = ~BUGIARDO!~ 
 @818  = ~Vogliamo ora scoprire cos'ha da dire la drow accusata? Vi prego di dare il benvenuto a Viconia DeVir!~ [JZ807] 
@@ -251,17 +260,17 @@ E' triste vedere degli gnomi cosÏ grandi ridotti in attivit‡ cosÏ depravate.~
 @827  = ~(sob) Va tutto bene, Keldorn caro. Ti credo. Verrai... verrai a casa con me?~ 
 @828  = ~Mi spiace, non posso. <CHARNAME> ed io dobbiamo andare ora. Ciao, carissima.~ 
 @829  = ~L'amante di mio marito
-E' sempre pi˘ difficile impedire a Keldorn e Viconia di uccidersi a vicenda. Lo dimostra il fatto che abbiamo combattuto addirittura davanti al pubblico al Jerry Zinger show!~ 
+E' sempre pi√π difficile impedire a Keldorn e Viconia di uccidersi a vicenda. Lo dimostra il fatto che abbiamo combattuto addirittura davanti al pubblico al Jerry Zinger show!~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // EP9 - "Who's your daddy?" (Aerie) 
 // ------------------------------------------------------------------------------------------------------------------------ 
 @900  = ~Bentornati allo show!~ [JZ901] 
 @901  = ~Ora, Aerie, credo che tua madre abbia qualcosa da dirti...~ [JZ902] 
-@902  = ~Cosa c'Ë, madre?~ 
+@902  = ~Cosa c'√®, madre?~ 
 @903  = ~Aerie, tesoro... tu non sei... veramente... una Avariel.~ 
 @904  = ~(piagnucola) Le mie ali, ho perso le mie ali...~ 
-@905  = ~No, tesoro. Vedi, tuo padre non Ë l'elfo che ricordi.~ 
+@905  = ~No, tesoro. Vedi, tuo padre non √® l'elfo che ricordi.~ 
 @906  = ~Aerie, mi spiace doverti turbare, ma-~ 
 @907  = ~Aerie, non sono il tuo padre biologico.~ [JZDAD101] 
 @908  = ~Ok, diamo un GRANDE BENVENUTO AL VERO PADRE DI AERIE!~ [JZ903] 
@@ -270,69 +279,69 @@ E' sempre pi˘ difficile impedire a Keldorn e Viconia di uccidersi a vicenda. Lo 
 @911  = ~Hey, ti ho chiesto qualcosa, lurido figlio di (beep)?~ [JZDAD202] 
 @912  = ~Vi prego! Fermatevi! Abbiamo tutti qualcosa di dire ad Aerie.~ 
 @913  = ~E' vero, Aerie, hai vissuto in una menzogna.~ [JZDAD103] 
-@914  = ~Ragazza, ascoltami un po': eccomi, un tipo attraente, che pensa ai fatti suoi, quando arriva questa stupenda pollastra di un'elfa tutta in bianco, con un corpo da urlo, dico il vero ehi! CosÏ, in ogni modo-~ [JZDAD203] 
-@915  = ~Aspetta! Vuoi dire che quando le mie ali sono cadute, perchË stavano marcendo...~ 
+@914  = ~Ragazza, ascoltami un po': eccomi, un tipo attraente, che pensa ai fatti suoi, quando arriva questa stupenda pollastra di un'elfa tutta in bianco, con un corpo da urlo, dico il vero ehi! Cos√¨, in ogni modo-~ [JZDAD203] 
+@915  = ~Aspetta! Vuoi dire che quando le mie ali sono cadute, perch√® stavano marcendo...~ 
 @916  = ~Erano una finzione magica. Cara, non ti sei mai insospettita quando scioglievi i lacci ogni sera?~ 
-@917  = ~Beh, pap‡ mi aveva spiegato che gli Avariel non sono davvero una razza alata, ma che Ë solo padrona della magica arte di volare.~ 
+@917  = ~Beh, pap√† mi aveva spiegato che gli Avariel non sono davvero una razza alata, ma che √® solo padrona della magica arte di volare.~ 
 @918  = ~...~ 
 @919  = ~Ci sei cascata davvero?~ [JZ904] 
-@920  = ~Hey! Stai parlando di mio pap‡. Aveva ragione su cosÏ tante cose, come la Grande Zucca, Santa Claus e molto altro.~ 
-@921  = ~Oh cara. Tesoro, non c'Ë nessuna Grande Zucca, e neanche Santa Claus non Ë mai esistito.~ 
+@920  = ~Hey! Stai parlando di mio pap√†. Aveva ragione su cos√¨ tante cose, come la Grande Zucca, Santa Claus e molto altro.~ 
+@921  = ~Oh cara. Tesoro, non c'√® nessuna Grande Zucca, e neanche Santa Claus non √® mai esistito.~ 
 @922  = ~Oh davvero? Allora chi mi portavi i regali ad ogni solstizio, mamma? Rispondimi!~ 
-@923  = ~Aw, Ë cosÏ adorabile!~ 
-@924  = ~Quando chiedi ad AERIE del suo passato, non puÚ risponderti per la confusione che le procurano i suoi ricordi contrastanti e le recenti scoperte. Ha sempre pensato di essere una Avariel, ma in realt‡ Ë una mezza umana, concepita tempo fa durante una scappatella. I ìricordiî degli schiavisti che le tagliavano le ali furono causati da una febbre mentre veniva trasportata per la Grande Palude Occidentale, e le cicatrici sulla sua schiena provocate da un tentativo frettoloso e violento di toglierle le ali meccaniche. Una simile attrezzatura per volare valeva molto, e gli schiavisti, per la premura di vendere questo prezioso dispositivo meccanico, le hanno inferto delle ferite davvero brutte. 
+@923  = ~Aw, √® cos√¨ adorabile!~ 
+@924  = ~Quando chiedi ad AERIE del suo passato, non pu√≤ risponderti per la confusione che le procurano i suoi ricordi contrastanti e le recenti scoperte. Ha sempre pensato di essere una Avariel, ma in realt√† √® una mezza umana, concepita tempo fa durante una scappatella. I ‚Äúricordi‚Äù degli schiavisti che le tagliavano le ali furono causati da una febbre mentre veniva trasportata per la Grande Palude Occidentale, e le cicatrici sulla sua schiena provocate da un tentativo frettoloso e violento di toglierle le ali meccaniche. Una simile attrezzatura per volare valeva molto, e gli schiavisti, per la premura di vendere questo prezioso dispositivo meccanico, le hanno inferto delle ferite davvero brutte. 
 
-Quest'ultima scoperta sul suo vero passato ha toccato Aerie nel profondo. E' stato difficile per Aerie accettare la verit‡ contrapposta a ciÚ che la sua mente febbricitante ha creato nel delirio. Come un animale che continua a stuzzicarsi la sua ferita profonda, nonostante sappia del dolore che si causer‡, Aerie si Ë precedentemente aggrappata a ricordi brutali come giustificazione per essere stata trattata male nella vita. Ora, conoscendo la mera verit‡, Aerie puÚ finalmente crescere come una persona vera, lasciandosi il passato alle spalle e guardando al futuro.~ 
-@925  = ~Se c'Ë qualcosa che abbiamo imparato oggi, Ë che l'onesta Ë molto importante nelle relazioni. Forse i genitori di Aerie avrebbe potuto essere pi˘ onesti con lei in passato. Forse una esposizione pubblica di fatti privati e delicati Ë salutare. Vi lascerÚ con questo pensiero. Per ora, vi saluto!~ [JZ905] 
-@926  = ~Chi Ë il tuo pap‡? 
-E' saltato fuori che alla fine Aerie non Ë un Avariel, ma una mezz'elfa. E pensare a tutte le volte che si Ë lamentata per essere stata abusata da bambina e per le sue ali cadute!~ 
+Quest'ultima scoperta sul suo vero passato ha toccato Aerie nel profondo. E' stato difficile per Aerie accettare la verit√† contrapposta a ci√≤ che la sua mente febbricitante ha creato nel delirio. Come un animale che continua a stuzzicarsi la sua ferita profonda, nonostante sappia del dolore che si causer√†, Aerie si √® precedentemente aggrappata a ricordi brutali come giustificazione per essere stata trattata male nella vita. Ora, conoscendo la mera verit√†, Aerie pu√≤ finalmente crescere come una persona vera, lasciandosi il passato alle spalle e guardando al futuro.~ 
+@925  = ~Se c'√® qualcosa che abbiamo imparato oggi, √® che l'onesta √® molto importante nelle relazioni. Forse i genitori di Aerie avrebbe potuto essere pi√π onesti con lei in passato. Forse una esposizione pubblica di fatti privati e delicati √® salutare. Vi lascer√≤ con questo pensiero. Per ora, vi saluto!~ [JZ905] 
+@926  = ~Chi √® il tuo pap√†? 
+E' saltato fuori che alla fine Aerie non √® un Avariel, ma una mezz'elfa. E pensare a tutte le volte che si √® lamentata per essere stata abusata da bambina e per le sue ali cadute!~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // The basic dialogue 
 // ------------------------------------------------------------------------------------------------------------------------ 
 @2000 = ~Buona sera, mio <LADYLORD>. Temo che tutti gli spettacoli siano terminati.~ 
-@2001 = ~Buona sera, mio <LADYLORD>. Temo che tu abbia gi‡ visto lo spettacolo di oggi. Riprova pi˘ tardi.~ 
-@2002 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìIl mio ex Ë un genio del maleî? Vi coster‡ 10 monete a testa.~ 
-@2003 = ~SÏ, sono molto interessato a vedere lo spettacolo.~ 
-@2004 = ~SÏ, siamo molto interessati a vedere lo spettacolo.~ 
+@2001 = ~Buona sera, mio <LADYLORD>. Temo che tu abbia gi√† visto lo spettacolo di oggi. Riprova pi√π tardi.~ 
+@2002 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúIl mio ex √® un genio del male‚Äù? Vi coster√† 10 monete a testa.~ 
+@2003 = ~S√¨, sono molto interessato a vedere lo spettacolo.~ 
+@2004 = ~S√¨, siamo molto interessati a vedere lo spettacolo.~ 
 @2005 = ~Temo di non aver abbastanza soldi.~ 
 @2006 = ~No, grazie. Non oggi.~ 
-@2007 = ~SÏ, <SIRMAAM>. Da questa parte, prego...~ 
+@2007 = ~S√¨, <SIRMAAM>. Da questa parte, prego...~ 
 @2008 = ~Ah, che peccato. Vi prego, torna un altro giorno.~ 
 @2009 = ~Come vuoi, <SIRMAAM>. Ti prego, torna un'altra volta.~ 
-@2010 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìTensioni razzialiî? Vi coster‡ 10 monete a testa.~ 
-@2011 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìScappo con la mia amanteî? Vi coster‡ 10 monete a testa.~ 
-@2012 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìFamiglia riunitaî? Vi coster‡ 10 monete a testa.~ 
-@2013 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìLa squadra lesbica di wrestling Budinoî? Vi coster‡ 10 monete a testa.~ 
-@2014 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìCavalieri in lingerieî? Vi coster‡ 10 monete a testa.~ 
-@2015 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìGnomi di latticeî? Vi coster‡ 10 monete a testa.~ 
-@2016 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìL'amante di mio maritoî? Vi coster‡ 10 monete a testa.~ 
-@2017 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ìChi Ë il tuo pap‡?î? Vi coster‡ 10 monete a testa.~ 
-@2018 = ~Buona sera, mio <LADYLORD>. Temo non ci sia alcuno spettacolo per oggi. Vi prego di tornare pi˘ tardi.~ 
+@2010 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúTensioni razziali‚Äù? Vi coster√† 10 monete a testa.~ 
+@2011 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúScappo con la mia amante‚Äù? Vi coster√† 10 monete a testa.~ 
+@2012 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúFamiglia riunita‚Äù? Vi coster√† 10 monete a testa.~ 
+@2013 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúLa squadra lesbica di wrestling Budino‚Äù? Vi coster√† 10 monete a testa.~ 
+@2014 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúCavalieri in lingerie‚Äù? Vi coster√† 10 monete a testa.~ 
+@2015 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúGnomi di lattice‚Äù? Vi coster√† 10 monete a testa.~ 
+@2016 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúL'amante di mio marito‚Äù? Vi coster√† 10 monete a testa.~ 
+@2017 = ~Buona sera, mio <LADYLORD>. Sei interessato a guardare lo spettacolo di oggi, ‚ÄúChi √® il tuo pap√†?‚Äù? Vi coster√† 10 monete a testa.~ 
+@2018 = ~Buona sera, mio <LADYLORD>. Temo non ci sia alcuno spettacolo per oggi. Vi prego di tornare pi√π tardi.~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // The crowd dialogue 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@2100 = ~Sono gi‡ saliti gli gnomi?~ 
+@2100 = ~Sono gi√† saliti gli gnomi?~ 
 @2101 = ~Non vedo l'ora di vedere le lesbiche!~ 
-@2102 = ~Non spingere, c'Ë posto per tutti.~ 
+@2102 = ~Non spingere, c'√® posto per tutti.~ 
 @2103 = ~Cosa stai guardando?~ 
-@2104 = ~Sono il pi˘ grande fan di Jerry! Il pi˘ grande! GRANDE!~ 
+@2104 = ~Sono il pi√π grande fan di Jerry! Il pi√π grande! GRANDE!~ 
 @2105 = ~Oh, er, scusa. Fagioli per pranzo.~ [JZFART] 
-@2106 = ~Ovviamente spero ci sia una lotta nel prossimi episodio. La violenza... Ë sexy.~ 
+@2106 = ~Ovviamente spero ci sia una lotta nel prossimi episodio. La violenza... √® sexy.~ 
 @2107 = ~Heya, bambola. Cosa fai dopo lo show?~ 
-@2108 = ~Vuoi vedere il mio lungo ìzingerî?~ 
+@2108 = ~Vuoi vedere il mio lungo ‚Äúzinger‚Äù?~ 
 @2109 = ~Pensavo fosse un locale di spogliarelli! Voglio indietro i miei soldi!~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // The drunk dialogue 
 // ------------------------------------------------------------------------------------------------------------------------ 
-@2200 = ~Lo speeetacolo di Zisher Ë grandiosso... (hic) Jerry dovrebbe entrare nel Coniglio dei Sheei.~ 
+@2200 = ~Lo speeetacolo di Zisher √® grandiosso... (hic) Jerry dovrebbe entrare nel Coniglio dei Sheei.~ 
 @2201 = ~Sheesh! Sono sciuro di vedere un muscio di ragazze basciare altre ragazze osgi. Eccesscionale!!~ 
-@2202 = ~Meh, Ë diffiscilisssimo dormire a svolte. Gli speeetacoli sono coscÏ chiassciosi.~ 
-@2203 = ~L'altra settimana, questa tiscia mi si sciede sopra. Ero coscÏ felisce, finchË non l'ho stretta e ho trovato che aveva una sooorpressa. Gi‡, un sciecondo dopo e non ero pi˘ ssbronzo.~ 
+@2202 = ~Meh, √® diffiscilisssimo dormire a svolte. Gli speeetacoli sono cosc√¨ chiassciosi.~ 
+@2203 = ~L'altra settimana, questa tiscia mi si sciede sopra. Ero cosc√¨ felisce, finch√® non l'ho stretta e ho trovato che aveva una sooorpressa. Gi√†, un sciecondo dopo e non ero pi√π ssbronzo.~ 
 @2204 = ~Un altro del solito, <GIRLBOY>.~ 
-@2205 = ~Dammi qualcosa cosÏ poscio comprare la mia mediscina!~ 
+@2205 = ~Dammi qualcosa cos√¨ poscio comprare la mia mediscina!~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // The hawker dialogue 
@@ -340,10 +349,10 @@ E' saltato fuori che alla fine Aerie non Ë un Avariel, ma una mezz'elfa. E pensa
 @2300 = ~Venite, signori, venite! Tutti quanti voi, venite! Assistete al famoso Jerry Zinger show! Da questa parte, <SIRMAAM>.~ 
 @2301 = ~Non mi interessa.~ 
 @2302 = ~Cosa sarebbe il Jerry Zinger show?~ 
-@2303 = ~Uno spettacolo elettrizzante e divertente, ogni volta diverso, che esplora i pi˘ intimi e oscuri segreti di ospiti speciali.~ 
+@2303 = ~Uno spettacolo elettrizzante e divertente, ogni volta diverso, che esplora i pi√π intimi e oscuri segreti di ospiti speciali.~ 
 @2304 = ~Sembra eccitante!~ 
 @2305 = ~Per la porta alle mie spalle, <SIRMAAM>.~ 
-@2306 = ~Fai come vuoi, allora. Hey, tu laggi˘...~ 
+@2306 = ~Fai come vuoi, allora. Hey, tu laggi√π...~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // The barkeep dialogue 
@@ -354,18 +363,18 @@ E' saltato fuori che alla fine Aerie non Ë un Avariel, ma una mezz'elfa. E pensa
 @2403 = ~Voglio vedere uno spettacolo.~ 
 @2404 = ~Certamente, <SIRMAAM>.~ 
 @2405 = ~Domande, eh? Va bene, ma fai presto. Ho clienti paganti che mi aspettano.~ 
-@2406 = ~Cos'Ë questo posto?~ 
+@2406 = ~Cos'√® questo posto?~ 
 @2407 = ~Come posso vedere uno spettacolo?~ 
-@2408 = ~C'Ë qualche opportunit‡ di lavoro da queste parti?~ 
+@2408 = ~C'√® qualche opportunit√† di lavoro da queste parti?~ 
 @2409 = ~Chi sei tu?~ 
-@2410 = ~Questo qui Ë lo studio di Jerry Zinger, dove tutti gli spettacoli hanno luogo. E tu, <SIRMAAM>, sei in piedi davanti al bar. Vuoi qualcosa da bere?~ 
-@2411 = ~SÏ, voglio qualcosa da bere.~ 
+@2410 = ~Questo qui √® lo studio di Jerry Zinger, dove tutti gli spettacoli hanno luogo. E tu, <SIRMAAM>, sei in piedi davanti al bar. Vuoi qualcosa da bere?~ 
+@2411 = ~S√¨, voglio qualcosa da bere.~ 
 @2412 = ~Non ho altre domande.~ 
-@2413 = ~No, me ne andrÚ. Grazie per le informazioni.~ 
+@2413 = ~No, me ne andr√≤. Grazie per le informazioni.~ 
 @2414 = ~Vai a parlare all'accettazione all'entrata. Viene dieci monete a testa.~ 
 @2415 = ~Grazie, ma devo andare. Grazie per le informazioni.~ 
-@2416 = ~Oh, sÏ! Mi serve qualcuno per servire ai tavoli, pulire il pavimento ogni sera e cucinarmi la cena. Sei interessato?~ 
-@2417 = ~Speravo in qualcosa di un poco pi˘... avventuroso?~ 
+@2416 = ~Oh, s√¨! Mi serve qualcuno per servire ai tavoli, pulire il pavimento ogni sera e cucinarmi la cena. Sei interessato?~ 
+@2417 = ~Speravo in qualcosa di un poco pi√π... avventuroso?~ 
 @2418 = ~E' ridicolo. Vattene dalla mia vista.~ 
 @2419 = ~Hai molti aspiranti, vero?~ 
 @2420 = ~Hey, cosa credi che sia, un ufficio di collocamento? Servo bevande. Ne vuoi una?~ 
@@ -377,9 +386,9 @@ E' saltato fuori che alla fine Aerie non Ë un Avariel, ma una mezz'elfa. E pensa
 // Pssst... The bar rumours... ;) 
 // ------------------------------------------------------------------------------------------------------------------------ 
 @2500 = ~Bob l'orco potrebbe essere uno Stregone Incappucciato in incognito. E' stato visto con in mano un manico di scopa in molte occasioni, forse una forma rudimentale di staffa magica. Si consiglia di fare attenzione.~ 
-@2501 = ~Un bambino Ë nato con due teste, due corpi ed otto arti la scorsa settimana. La madre si dice si senta 'pi˘ leggera'.~ 
+@2501 = ~Un bambino √® nato con due teste, due corpi ed otto arti la scorsa settimana. La madre si dice si senta 'pi√π leggera'.~ 
 @2502 = ~La squadra di produzione del Jerry Zinger lavora in continuazione su idee per nuovi episodi, e sono anche alla ricerca di nuovi talenti.~ 
-@2503 = ~L'unica ragione per la quale quella dell'accettazione non viene licenziata Ë perchË va a letto con il direttore. Un favoritismo sconvolgente?~ 
+@2503 = ~L'unica ragione per la quale quella dell'accettazione non viene licenziata √® perch√® va a letto con il direttore. Un favoritismo sconvolgente?~ 
 
 // ------------------------------------------------------------------------------------------------------------------------ 
 // Scripts - JZCRWD.baf 
