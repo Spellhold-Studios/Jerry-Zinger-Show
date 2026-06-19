@@ -1,0 +1,443 @@
+// ------------------------------------------------------------------------------------------------------------------------
+// tp2
+// ------------------------------------------------------------------------------------------------------------------------
+@0   = ~The Jerry Zinger Show mod do BG II, BG II EE i EET~
+@1   = ~Jerry Zinger~
+@2   = ~Ogr Steve~
+@3   = ~Ogr Bob~
+@4   = ~Recepcjonistka~
+@5   = ~Maczuga~
+@6   = ~Ogr-stra¿nik~
+@7   = ~Steve~
+@8   = ~Sebastian~
+@9   = ~Ha³aœliwy widz~
+@10  = ~Widz~
+@11  = ~Barman~
+@12  = ~Studio Jerry'ego Zingera: widownia u¿ywa bocznego wejœcia (przez gospodê „Nora Siedmiu Dolin”).~
+@13  = ~Matka Aerie~
+@14  = ~Ojciec Aerie~
+@15  = ~Prawdziwy ojciec Aerie~
+@16  = ~Dziecko~
+@17  = ~Widz~
+@18  = ~Nowicjusz~
+@19  = ~The Jerry Zinger Show: Usun opoznienie pomiedzy odcinkami~
+@22  = ~Musisz miec zainstalowany mod the Jerry Zinger Show.~
+@23  = ~Zapraszamy na Show Jerry'ego Zingera!~
+@24  = ~Proszê bardzo, proszê siê nie pchaæ! Têdy na show Jerry'ego Zingera.~
+@25  = ~Wymagany Tron Bhaala.~
+@31  = ~Cola~
+@32  = ~Kawucha~
+@33  = ~Sikacz~
+@34  = ~Bia³e wytrawne~
+@35  = ~Gin z tonikiem~
+@36  = ~Seta~
+@37  = ~Herbata z pr¹dem~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP1 - "My ex is an evil mastermind" (Irenicus, Ellesime)
+// ------------------------------------------------------------------------------------------------------------------------
+@100  = ~Dobrze, kochani, poznajmy naszego pierwszego goœcia. To genialny z³oczyñca, który chce zniszczyæ miasto.~ [JZ101]
+@101  = ~Przywitajcie... Jona Irenicusa!~ [JZ102]
+@102  = ~Czeœæ, Jerry. Uwielbiam twój program.~ [JZBLANK]
+@103  = ~Jak rozumiem, knujesz ostatnio coœ wiêkszego. Co mo¿esz nam o tym powiedzieæ?~ [JZ103]
+@104  = ~Zemszczê siê na tej suce Ellesime! To, ¿e <CHARNAME> straci³ duszê, to by³ dopiero pierwszy krok w...~ ~Zemszczê siê na tej suce Ellesime! To, ¿e <CHARNAME> straci³a duszê, to by³ dopiero pierwszy krok w...~
+@105  = ~Có¿, Jon, mamy dla ciebie niespodziankê! Oto i ona! Ellesime!~ [JZ104]
+@106  = ~Witaj, Jonie.~
+@107  = ~Œmiesz siê tu pojawiaæ?! Wygna³aœ mnie! Najpierw spa³em na kanapie, potem ukrad³aœ mi duszê, a teraz TO?!~
+@108  = ~Jonie, chodzi³o mi tylko o dobro Suldanessellar...~
+@109  = ~Ty krowo!~
+@110  = ~Za kogo ty siê, *pii*, uwa¿asz, ty *pii*, wielka *pii*... *pii*! Parszywa kupa *pii*!~ [JZBEEP3]
+@111  = ~O, jasna *pii*...~
+@112  = ~Có¿... myœlê, ¿e dziœ nauczyliœmy siê, i¿ nasze zwi¹zki wymagaj¹ czasem gruntownego oczyszczenia atmosfery. Pamiêtajcie o tym, a tymczasem – do nastêpnego razu.~ [JZ105]
+@113  = ~„Mój by³y to genialny z³oczyñca!”
+
+Kto by pomyœla³! W Show Jerry'ego Zingera zobaczy³em dziœ samego Jona Irenicusa! Spra³ jak¹œ kobietê o imieniu Ellesime, a potem jeszcze ochroniarzy, po czym znikn¹³. Imponuj¹ce; muszê zachowaæ ostro¿noœæ, zanim znów siê z nim zmierzê.~ ~„Mój by³y to genialny z³oczyñca!”
+
+Kto by pomyœla³! W Show Jerry'ego Zingera zobaczy³am dziœ samego Jona Irenicusa! Spra³ jak¹œ kobietê o imieniu Ellesime, a potem jeszcze ochroniarzy, po czym znikn¹³. Imponuj¹ce; muszê zachowaæ ostro¿noœæ, zanim znów siê z nim zmierzê.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP2 - "Racial tension" - (Korgan)
+// ------------------------------------------------------------------------------------------------------------------------
+@200  = ~Witamy w Show Jerry'ego Zingera! Przywitajcie s³ynnego zabijakê i wojownika, Korgana!~ [JZ201]
+@201  = ~A teraz, o ile wiem, masz coœ do powiedzenia na temat „napiêæ rasowych”, prawda?~ [JZ202]
+@202  = ~Ta! Nienawidzê elfów, d³ugonogich i Amnijczyków.~
+@203  = ~No tak, przypadkiem mamy tu kilku elfów, paru tych „d³ugonogich”... to znaczy, ee, ludzi, a nasza widownia sk³ada siê g³ównie z Amnijczyków.~ [JZ203]
+@204  = ~A tu mamy topór. Powiedz nam, co zamierzasz z nim zrobiæ?~ [JZ204]
+@205  = ~No to jazda!~
+@206  = ~Myœlê, ¿e dzisiejszy dzieñ wiele nas nauczy³. Powœci¹gliwoœæ i tolerancja s¹ bardzo wa¿ne, a poza tym, hej, ka¿demu czasem przyda siê daæ upust emocjom. Mi³ego dnia!~ [JZ205]
+@207  = ~„Napiêcia rasowe”
+
+Korgan wpad³ dziœ w sza³ mordu podczas Show Jerry'ego Zingera. Zabi³ mnóstwo ludzi. Bardzo krêpuj¹ce. Muszê mu powiedzieæ, ¿eby wiêcej tego nie robi³.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP3 - "Leaving with my lover" (Rumar)
+// ------------------------------------------------------------------------------------------------------------------------
+@300  = ~Dziœ witamy Priss, Rumara i Tianê!~ [JZ301]
+@301  = ~Co? Przecie¿ myœla³em, ¿e nie ¿yjesz!~ [JZRUMAR1]
+@302  = ~Yyy... yyy...~
+@303  = ~Eee... no có¿...~
+@304  = ~Czy jest coœ, o czym nie mówicie Rumarowi?~ [JZ302]
+@305  = ~To by³a atrapa, taki ³adunek z udawan¹ krwi¹...~
+@306  = ~Widzisz, Rumar, zostawiamy ciê. Uciekamy razem.~
+@307  = ~Kochamy siê.~
+@308  = ~*ca³uje Priss*~ [JZKISS]
+@309  = ~*pieœci Tianê*~
+@310  = ~Ale... dlaczego? To udawanie? Ta ca³a gra? Na litoœæ Helma, dlaczego?~ [JZRUMAR2]
+@311  = ~Chcia³yœmy oszczêdziæ ci wstydu, ¿e ¿ona i kochanka uciekaj¹ razem.~
+@312  = ~Nie chcia³yœmy publicznego upokorzenia!~
+@313  = ~Gdyby twoi przyjaciele siê dowiedzieli, Rumar...~
+@314  = ~Gdyby siê dowiedzieli... och.~
+@315  = ~*chrz¹ka*~ [JZ303]
+@316  = ~Có¿, Tiano, Priss, to bardzo mi³e z waszej strony, ¿e tak o mnie myœla³yœcie... Wci¹¿ jestem w szoku. Naprawdê ¿yczê wam obu szczêœcia.~ [JZRUMAR3]
+@317  = ~Ale... wiecie, ci moi dystyngowani przyjaciele, z którymi spêdzam czas? Yyy... nie zauwa¿y³yœcie, ¿e wszyscy jesteœmy facetami i spêdzamy podejrzanie du¿o czasu na przyjêciach? No i... ta iloœæ ró¿u, który wszyscy nosimy!~ [JZRUMAR4]
+@318  = ~No, có¿... tak...~
+@319  = ~Wiêc siê domyœli³yœcie?~ [JZRUMAR7]
+@320  = ~Czego niby mia³yœmy siê domyœliæ?~
+@321  = ~Och, nic! No to pa, powodzenia.~
+@322  = ~Rumar, kochanie! Teraz mo¿emy byæ razem bez komplikacji w postaci tych twoich... uch... kobiet!~ [JZWILLY1]
+@323  = ~Sir William! No proszê, wygl¹da na to, ¿e Maria by³a ca³kowicie szczera, kiedy twierdzi³a, ¿e jej zwi¹zek z sir Williamem jest platoniczny! Dziêkujê ci, <CHARNAME>, ¿e doradzi³eœ mi, by nie mieszaæ do tego prawa!~ ~Sir William! No proszê, wygl¹da na to, ¿e Maria by³a ca³kowicie szczera, kiedy twierdzi³a, ¿e jej zwi¹zek z sir Williamem jest platoniczny! Dziêkujê ci, <CHARNAME>, ¿e doradzi³aœ mi, by nie mieszaæ do tego prawa!~
+@324  = ~Patrz¹c z perspektywy czasu, powinienem siê czegoœ domyœliæ, kiedy zobaczy³em te ró¿owe poñczochy i seledynow¹ tunikê.~
+@325  = ~Thorpe, skarbie, tak!~ [JZRUMAR6]
+@326  = ~Có¿, widok dwóch par wreszcie po³¹czonych jest niemal tak piêkny jak stan mojego konta. Myœlê, ¿e wszyscy siê tym wzruszyliœmy, wiêc bez dalszej zw³oki – mi³ego dnia!~ [JZ304]
+@327  = ~„Odejœcie z kochankiem”
+
+Dziœ w Show Jerry'ego Zingera widzia³em dwie pary, które wreszcie siê zesz³y. Z jakiegoœ powodu publicznoœæ by³a tym strasznie podekscytowana.~ ~„Odejœcie z kochankiem”
+
+Dziœ w Show Jerry'ego Zingera widzia³am dwie pary, które wreszcie siê zesz³y. Z jakiegoœ powodu publicznoœæ by³a tym strasznie podekscytowana.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP4 - "Families Reunited" (Aerie)
+// ------------------------------------------------------------------------------------------------------------------------
+@400  = ~Dzieñ dobry i witamy w Show Jerry'ego Zingera. Dziœ nasz¹ pierwsz¹ goœcini¹ jest piêkna elfia czarodziejka.~ [JZ401]
+@401  = ~Przywitajcie... Aerie!~ [JZ402]
+@402  = ~*rumieni siê* Witaj, Jerry.~ [JZBLANK]
+@403  = ~Aerie, zosta³aœ porwana w dzieciñstwie przez niewolników. Trzymali ciê w klatce, a twoje skrzyd³a odpad³y ze stresu. Nigdy wiêcej nie widzia³aœ rodziców, a oni, bez w¹tpienia, uznali ciê za martw¹...~ [JZ403]
+@404  = ~A teraz mamy dla ciebie niespodziankê, bo OTO RODZICE AERIE!~ [JZ404]
+@405  = ~Mamo? Ale...~ [JZBLANK]
+@406  = ~Aerie! *obejmuje j¹*~
+@407  = ~A teraz zaproœmy OJCA AERIE!~ [JZ405]
+@408  = ~*obejmuje j¹*~ [JZBLANK]
+@409  = ~*obejmuj¹ siê*~
+@410  = ~*obejmuj¹ siê*~ [JZBLANK]
+@411  = ~Mamo... Tato... Jestem taka szczêœliwa!~
+@412  = ~Proszê pañstwa, wielkie brawa dla rodziny, która znów siê odnalaz³a! A kto powiedzia³, ¿e Show Jerry'ego Zingera nigdy nie robi niczego po¿ytecznego? A teraz rodzice Aerie maj¹ jej coœ do powiedzenia, wiêc do zobaczenia nastêpnym razem *puszcza oczko*.~ [JZ406]
+@413  = ~„Rodzina znów razem”
+
+Aerie ponownie spotka³a siê ze swoimi rodzicami za spraw¹ Jerry'ego Zingera! Niewiarygodne, po tylu latach roz³¹ki. NajwyraŸniej maj¹ jej coœ jeszcze do wyjawienia, ale musimy wróciæ do studia, by siê dowiedzieæ czego.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP5 - (No name)
+// ------------------------------------------------------------------------------------------------------------------------
+@500  = ~To Show Jerry'ego Zingera, a ja jestem Jerry Zinger! Dziœ chcia³bym powitaæ Lesbijsk¹ Dru¿ynê Zapasów w Kisielu z Athkatli!~ [JZ501]
+@501  = ~Hej, kuzynie. Jak dzisiejsze zbiory?~
+@502  = ~A, zebraliœmy prawie pó³ korca rzepy, ale jak zwykle prawie wszystkie pomidory siê rozpaæka³y. Tê jedn¹ zostawi³em specjalnie dla ciebie, kuzynie, wiem, jak bardzo je lubisz.~
+@503  = ~Dziêki! Doceniam to, bo jutro moja kolej byæ celem.~
+@504  = ~No, kuzaj! To najlepsze oszustwo, jakie kiedykolwiek wymyœli³eœ! Wystarczy udawaæ kretynów, a ludzie rzucaj¹ w nas jedzeniem.~
+@505  = ~Prawda. To klasyczny przyk³ad dialektycznych zmagañ pracownika agrarnego utrzymuj¹cego siê z uprawy roli ze zurbanizowanym mieszczuchem. Ich ¿ycie jest tak ¿a³osne i nieistotne, ¿e automatycznie projektuj¹ wrogoœæ na warstwy, które postrzegaj¹ jako ni¿sze. A my jedynie dostosowujemy siê do ich prymitywnych fantazji o wy¿szoœci – i stajemy siê ucieleœnieniem wszystkiego, czego w sobie nienawidz¹: uprzedzeñ, chciwoœci, g³upoty i ¿¹dzy. I wtedy rzucaj¹ w nas warzywami!~
+@506  = ~Potrzebujemy tylko amuletu ochronnego, ¿eby te warzywa tak nie bola³y, i mamy darmowe z³oto!~
+@507  = ~Tak... zastanawiam siê, ile dostaniemy za dzisiejsz¹ rzepê w gnomim getcie. Czy wczorajsza partia jest gotowa na sprzeda¿?~
+@508  = ~Moczy³a siê ca³¹ noc, wiêc pewnie nabra³a z tuzina funtów wody. Czas to opchn¹æ!~
+@509  = ~No proszê! Nie widzia³em rzepy u¿ytej w taki sposób od czasu, gdy mój dalszy kuzyn Archie zatrudnia³ cz³onków swej rodziny do zakuwania w dyby. Mia³ sklep z warzywami na targu. To by³ gnom z prawdziwym zmys³em do interesu!~
+@510  = ~Jasne, Janie. ChodŸmy ju¿.~
+@511  = ~CISZA, DEMONIE!~
+@512  = ~No trudno, takie ¿ycie.~
+@513  = ~*zaatakuj ich*~
+@514  = ~Czeœæ! £a³, ty jesteœ Jerry Zinger!~
+@515  = ~Uwielbiam ten program!~
+@516  = ~Masz tu naprawdê dziwnych ludzi, co?~ [GENMG15]
+@517  = ~Mam mnóstwo problemów, mogê ci o nich opowiedzieæ, jeœli chcesz. Chcesz, ¿ebym opowiedzia³ o swoich problemach?~
+@518  = ~£A£! Czy ta maczuga jest prawdziwa?~ [GENMG15]
+@519  = ~Hej, a gdzie s¹ lesbijki?~
+@520  = ~Czy to naprawdê <CHARNAME> tam siedzi? To takie MEGA...~ [GENMG15]
+@521  = ~Nie patrz tak na mnie...~
+@522  = ~Zaczynasz mnie przera¿aæ!~ [GENMG15]
+@523  = ~Có¿... obawiam siê, ¿e na dziœ to ju¿ wszystko, co mamy.~ [JZ502]
+@524  = ~„Jerry Zinger Show”
+
+Jakiœ przypadkowy goœæ wszed³ dziœ na scenê Show Jerry'ego Zingera. Publicznoœæ obrzuci³a go zgni³ymi owocami i warzywami, a¿ sobie poszed³. Co to na Dziewiêæ Piekie³ ma byæ?~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP6 - "Knights who wear Lingerie and the women who love them" (Keldorn)
+// ------------------------------------------------------------------------------------------------------------------------
+@600  = ~Dziœ w programie: rycerze, którzy nosz¹ fikuœn¹ bieliznê – i kobiety, które ich kochaj¹! Przywitajcie sir Keldorna Firecama oraz sir Ryana Trawla!~ [JZ601]
+@601  = ~A do tego pojawi siê nasz goœæ specjalny – Anomen Delryn!~ [JZ602]
+@602  = ~Keldorn, co to wszystko ma znaczyæ?~
+@603  = ~Mario?! Co ty tutaj robisz?~
+@604  = ~*chrz¹ka* To nie jest teraz najwa¿niejsze.~ [JZ603]
+@605  = ~„Fikuœna bielizna”? Keldornie, ten plugawy, obrzydliwy cz³owiek rzuca w twoj¹ stronê potworne oszczerstwa! Nie rozetniesz go na pó³ za takie pomówienia?~
+@606  = ~*rumieni siê* Eee...~
+@607  = ~KELDORNIE W¥TPIOGNIU FIRECAMIE! CHCESZ MI POWIEDZIEÆ, ¯E TO HANIEBNE OSKAR¯ENIE JEST PRAWD¥?!~
+@608  = ~Nie rozumiesz, moja mi³oœci... to ma zwi¹zek ze zbroj¹.~
+@609  = ~ZE ZBROJ¥?!~
+@610  = ~Tak, ze zbroj¹. Widzisz to zawsze, kiedy pomagasz mi nak³adaæ przeszywanicê.~
+@611  = ~Przeszywanicê?~
+@612  = ~Tak, przeszywanicê... warstwy grubej filcowej we³ny, tak grubej, ¿e schnie tydzieñ i lata trzeba, ¿eby to rozchodziæ. Surowa we³na swêdzi, jak nie wiem. Na rêkach, nogach, torsie – ale na mê... no wiesz gdzie...~
+@613  = ~Ach, rozumiem.~
+@614  = ~Wiem, ¿e potrzebujesz wyœció³ki, ¿eby amortyzowaæ uderzenia w zbrojê. Wiem te¿, jaka to œmierdz¹ca, niewygodna rzecz... i oczywiœcie rozumiem twoje problemy z... no wiesz.~
+@615  = ~Wiêc, lata temu, ze wstydem przyznajê, podprowadzi³em ci trochê twojej jedwabnej bielizny przed wyruszeniem na kampaniê Najszlachetniejszego Zakonu Promiennego Serca. Inaczej musia³bym drapaæ siê po... no, wiadomo. Uratowa³o to moj¹ godnoœæ i uczyni³o kampaniê znoœn¹. Có¿, kilku towarzyszy broni siê o tym dowiedzia³o.~
+@616  = ~Czyli te koronkowe czerwone majtki z Calimshanu, te z wyciêciami, które myœla³am, ¿e ukrad³a Vesper?~
+@617  = ~Mam je teraz na sobie.~
+@618  = ~Zapewniam ciê ca³kowicie, ¿e nie noszê ¿adnych koronkowych, kobiecych, nieprzyzwoitych fata³aszków!~
+@619  = ~Yyy...~ [JZ604]
+@620  = ~Aaa! Ta ow³osiona baba mnie straszy!~ [JZBABE]
+@621  = ~To wszystko to jakaœ pomy³ka! Nigdy nie za³o¿y³bym takiej bielizny!~
+@622  = ~Och, daj spokój. Mo¿e zamówmy u naszego krawca jedwabn¹ bieliznê na wymiar?~
+@623  = ~Mario, to jedynie wojskowa koniecznoœæ – dla komfortu i higieny!~
+@624  = ~Aha, jasne.~ [JZ605]
+@625  = ~Cisza, nikczemniku!~
+@626  = ~Eee... nie wszystkie moje jedwabne rzeczy s¹ takie wygodne. Wiesz, brakuje mi kilku stringów.~
+@627  = ~*chrz¹ka* Obawiam siê, ¿e o to musisz zapytaæ Vesper.~
+@628  = ~*szeptem* Dziêki, Keldornie.~
+@629  = ~No dobrze, wybaczê ci tym razem, ale tylko...~
+@630  = ~...tylko jeœli poka¿esz mi je dziœ wieczorem.~
+@631  = ~Umowa stoi!~
+@632  = ~Kocham ciê, Keldornie Firecamie!~
+@633  = ~A ja kocham ciebie, Mario Priscillo Firecam!~
+@634  = ~Mi³o widzieæ parê, która potrafi siê dogadaæ. Pamiêtajcie, kochani, wywlekanie intymnych problemów waszych, waszych bliskich czy znajomych w Show Jerry'ego Zingera jest dobre dla wszystkich!~ [JZ606]
+@635  = ~„Rycerze w bieliŸnie”
+
+Keldorn wci¹¿ nie chce rozmawiaæ o tym, co odkryliœmy dziœ w Show Jerry'ego Zingera. Chyba wyjaœnia to, dlaczego zawsze tak siê kry³ z przebieraniem. Koronkowa damska bielizna, doprawdy!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP7 - "Latex Gnomes" (SConrad, Seifer)
+// ------------------------------------------------------------------------------------------------------------------------
+@700  = ~Witamy w programie! Dzisiejsi goœcie to Sebastian i Steve – dwaj gnomi bandyci!~ [JZ701]
+@701  = ~Dawaj ca³e swoje z³oto, albo twoje kolana bêd¹ moje!~ [JZSEB01]
+@702  = ~KOLANO!~ [JZSF1]
+@703  = ~Nie, Steve, mówi siê: „twoje kolana bêd¹ moje!”. Postaraj siê.~ [JZSEB02]
+@704  = ~Eee... Sebastian, chyba twój przyjaciel jest trochê...~ [JZ702]
+@705  = ~Powolny. Ale dobry ch³opak, co nie?~ [JZSEB03]
+@706  = ~Wiêc, powiedzcie, jak wam idzie interes?~ [JZ703]
+@707  = ~Œwietnie, Jerry, rewelacyjnie! Jesteœmy ju¿ tak s³awni, ¿e dorobiliœmy siê w³asnej nazwy, od której kupcy na drodze do Targowa obsikuj¹ siê ze strachu!~ [JZSEB04]
+@708  = ~GNOMY, KTÓRE MÓWI¥ „KOLANO”!~ [JZSF2]
+@709  = ~Rozumiem...~ [JZ704]
+@710  = ~A dzia³a, prawda?~ [JZSEB05]
+@711  = ~Sebastianie, jaki by³ wasz najwiêkszy skok?~ [JZ705]
+@712  = ~Eee... ostatnio ukradliœmy wielk¹ partiê-~ [JZSEB06]
+@713  = ~KRZEWY!~ [JZSF3]
+@714  = ~Tak! Krzewy, no... te specjalne krzewy z Maztliki, sprzedaj¹ siê po tysi¹c sztuk z³ota za sztukê!~ [JZSEB07]
+@715  = ~Czyli interes kwitnie? Z³ota macie po pachy?~ [JZ706]
+@716  = ~Oczywiœcie! Niech mnie przymusz¹ œci¹æ drzewo œledziem, jeœli k³amiê!~ [JZSEB08]
+@717  = ~Tak? To zobaczmy, co ma do powiedzenia nasz goœæ-niespodzianka...~ [JZ707]
+@718  = ~Przywitajmy Bu³eczkê!~ [JZ708]
+@719  = ~Czeœæ, Steve! Witaj, Sebastian.~
+@720  = ~Ekhm... o czym ty mówisz, Bu³eczko? Jeœli to w ogóle twoje imiê! Nigdy ciê nie widzia³em, przenigdy!~ [JZSEB09]
+@721  = ~Kolano?~ [JZSF4]
+@722  = ~Hej, co ty pleciesz? To ja, Bu³eczka... twoja chórzystka, kiedy wystêpujesz w mêskim przegl¹dzie tanecznym w „specjalnej sali” w Diademie, w noce dziewi¹tego dnia ka¿dego dziesiêciodnia!~
+@723  = ~Nie mam pojêcia, o czym mówisz!~ [JZSEB10]
+@724  = ~Ale¿ masz. Pamiêtam, jak mi mówi³eœ, ¿e ten bandycki interes, w który wda³eœ siê z twoim „przyjacielem”, przynosi tak marne zyski, ¿e musia³eœ dorabiaæ w programie tanecznym dla striptizerów, organizowanym przez madame Nin.~
+@725  = ~Pyta³am ciê wtedy, jak ciasna by³a ta lateksowa sukienka, któr¹ kaza³a ci zak³adaæ, i dawa³am ci wskazówki przy peruce z blond warkoczami, rumieñcach, ró¿u i tych ogromnych sztucznych rzêsach...~
+@726  = ~*bulgoce*~ [JZSEB11]
+@727  = ~I opowiada³eœ, jak boli ciê gard³o, kiedy œpiewasz falsetem w tej lateksowej sukience, i jak czujesz, ¿e zaraz z niej „wyskoczysz”, kiedy wykonujesz „Good Ship Lollypop”, tañcz¹c i stepuj¹c na scenie...~
+@728  = ~*szlocha*~ [JZSEB12]
+@729  = ~*przytula Sebastiana*~
+@730  = ~Có¿, kochani, wygl¹da na to, ¿e zbrodnia siê nie op³aca. A przynajmniej – nie a¿ tak bardzo. Dziêkujê wszystkim i do zobaczenia! Nazywam siê Jerry Zinger.~ [JZ709]
+@731  = ~„Lateksowe gnomy”
+
+Smutno patrzeæ, jak wielcy gnomowie upadaj¹ tak nisko.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP8 - "My husband's mistress" (Viconia, Keldorn)
+// ------------------------------------------------------------------------------------------------------------------------
+@800  = ~Jest najlepszy. Jest marzeniem kobiet. Jest jak dobra whisky poœród mê¿czyzn – im starszy, tym lepszy!~ [JZ801]
+@801  = ~Panie i panowie, oto sir Keldorn Firecam!~ [JZ802]
+@802  = ~Witaj, Jerry.~ [JZBLANK]
+@803  = ~S³ysza³em, ¿e jesteœ bardzo zajêty sprawami Najpromienniejszego Serca. Ani chwili na radoœæ z bliskimi, co?~ [JZ803]
+@804  = ~Bycie paladynem Najszlachetniejszego Zakonu Promiennego Serca to ciê¿ka s³u¿ba, Jerry.~
+@805  = ~A co byœ powiedzia³, gdybym ci oznajmi³, ¿e za kulisami czeka ktoœ, kogo nie widzia³eœ od bardzo dawna?~ [JZ804]
+@806  = ~Naprawdê? Kto?~
+@807  = ~No có¿... twoja ¿ona, oczywiœcie! Przywitajcie lady Firecam!~ [JZ805]
+@808  = ~Witaj, Jerry. Dziêkujê za zaproszenie.~
+@809  = ~Mario! Jestem przeszczêœliwy, ¿e ciê widzê.~
+@810  = ~Taa, taa.~
+@811  = ~Eee? Mario?~
+@812  = ~A wiêc, Lady Mario, co chcia³aœ powiedzieæ mê¿owi?~ [JZ806]
+@813  = ~Zamierzam siê z tob¹ rozwieœæ, ty nic nie wart, graj¹cy na dwa fronty, stary *pii*!~ [JZBEEP2]
+@814  = ~Ale... Mario! O co ci chodzi?~ [JZBLANK]
+@815  = ~Chodzi mi o tê drowkê, któr¹ pie*pii*sz od kilku lat, ty *pii* draniu! Najjaœniejsze Serce! Phi! Raczej najjaœniejsze *pii*!~ [JZBEEP3]
+@816  = ~Ale¿ ja nienawidzê drowów, Mario. Wszyscy o tym wiedz¹.~
+@817  = ~K£AMCA!~
+@818  = ~Zobaczmy wiêc, co do powiedzenia ma oskar¿ana drowka! Przywitajcie Viconiê DeVir!~ [JZ807]
+@819  = ~Jerry, ¿¹dam wyjaœnieñ. Nigdy nie tkn¹³bym tego obrzydlistwa przez ca³e moje ¿ycie!~
+@820  = ~Obrzydlistwa? Nie zakrawa³am na obrzydlistwo, gdy dobija³eœ siê do mnie, ¿eby ci *pii* obci¹gn¹æ, ty *pii*! Chcesz to *pii* z powrotem, kobieto?!~ [JZBEEP2]
+@821  = ~Nie chcê go! Chcê tylko wyrwaæ mu tego *pii* z korzeniami!~ [JZBEEP3]
+@822  = ~K³amliwa sucza harpio!~
+@823  = ~Có¿, proszê pañstwa, kolejna szczêœliwie zjednoczona para!~ [JZ808]
+@824  = ~Pozdrowienia, samce.~
+@825  = ~Keldorn... kochanie! Czeœæ, ciasteczko.~
+@826  = ~*szlocha* K³amstwa, same k³amstwa...~
+@827  = ~*szlocha* Ju¿ dobrze, Keldornie, kochanie. Wierzê ci. Pójdziesz... pójdziesz ze mn¹ do domu?~
+@828  = ~Obawiam siê, ¿e nie mogê. <CHARNAME> i ja musimy ju¿ iœæ. Bywaj, najdro¿sza.~
+@829  = ~„Kochanka mojego mê¿a”
+
+Coraz trudniej powstrzymaæ Keldorna i Viconiê przed zabiciem siê nawzajem. Dlaczego? Oni nawet pobili siê publicznie, przed widowni¹ Show Jerry'ego Zingera!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// EP9 - "Who's your daddy?" (Aerie)
+// ------------------------------------------------------------------------------------------------------------------------
+@900  = ~Witamy ponownie w programie!~ [JZ901]
+@901  = ~A teraz, Aerie, myœlê, ¿e twoja matka ma ci coœ do powiedzenia...~ [JZ902]
+@902  = ~Co takiego, mamo?~
+@903  = ~Aerie, kochanie... tak naprawdê... nie jesteœ avarielem.~
+@904  = ~*p³acze* Moje skrzyd³a, straci³am swoje skrzyd³a...~
+@905  = ~Nie, kochanie. Twoim ojcem nie jest elf, którego pamiêtasz.~
+@906  = ~Aerie, przykro mi, ale...~
+@907  = ~Aerie, nie jestem twoim biologicznym ojcem.~ [JZDAD101]
+@908  = ~A teraz POWITAJMY PRAWDZIWEGO OJCA AERIE!~ [JZ903]
+@909  = ~Hej, maleñka. Dawnoœmy siê nie widzieli. To ta ma³a?~ [JZDAD201]
+@910  = ~Hej! Zostaw j¹ w spokoju. Jest ze mn¹.~ [JZDAD102]
+@911  = ~A kogo to obchodzi, ty œmierdz¹cy synu *pii*?!~ [JZDAD202]
+@912  = ~Proszê! Przestañcie! Wszyscy mamy coœ do powiedzenia Aerie.~
+@913  = ~Dok³adnie. Aerie, ¿y³aœ w k³amstwie.~ [JZDAD103]
+@914  = ~Dziewczyno, powiem ci to krótko: sobie siedzê, przystojniak jak siê patrzy, kiedy nagle wpada do mnie taka elfia laska w bieli, cia³o jak marzenie, no mówiê ci! Wiêc tak czy siak...~ [JZDAD203]
+@915  = ~Czekaj! To znaczy, ¿e kiedy moje skrzyd³a odpad³y, kiedy zgni³y...~
+@916  = ~To by³y magiczne protezy. Kochanie, nie dziwi³o ciê, ¿e ka¿dej nocy odpina³aœ uprz¹¿?~
+@917  = ~Có¿... tatuœ wyjaœnia³, ¿e avariele nie s¹ tak naprawdê ras¹ skrzydlat¹, tylko opanowa³y sztukê magicznego latania.~
+@918  = ~...~
+@919  = ~Naprawdê w to uwierzy³aœ?~ [JZ904]
+@920  = ~Hej! To mój tatuœ! Mia³ racjê w tylu sprawach! W kwestii Wielkiej Dyni, Miko³aja i tylu innych rzeczy!~
+@921  = ~Och, kochanie. Wielka Dynia nie istnieje. I Miko³aj te¿ nie.~
+@922  = ~Tak? To kto przynosi mi prezenty na ka¿de przesilenie, mamo? No?~
+@923  = ~Ale to s³odkie!~
+@924  = ~Zapytania o sw¹ przesz³oœæ, AERIE sama nie wie, co myœleæ – jej wspomnienia k³óc¹ siê z nowymi, brutalnymi faktami. Zawsze s¹dzi³a, ¿e jest avarielem, lecz prawda jest taka, ¿e jest pó³elfk¹, poczêt¹ w przelotnym romansie jej matki z cz³owiekiem. „Wspomnienia” o odciêciu skrzyde³ przez niewolników by³y wizjami wywo³anymi gor¹czk¹ podczas podró¿y przez Wielkie Zachodnie Trzêsawiska, a blizny na jej plecach to wynik gwa³townego demonta¿u mechanicznych skrzyde³. Sprzêt do magicznego lotu by³ cenny, a w³adcy niewolników, spiesz¹c siê, by sprzedaæ urz¹dzenie, przy zdejmowaniu uprzê¿y mocno j¹ poranili.
+
+Ta najnowsza prawda mocno wstrz¹snê³a Aerie. Trudno jej pogodziæ siê z rzeczywistoœci¹, zamiast z obrazami wytworzonymi przez jej umys³ w malignie. Jak zranione zwierzê, które uporczywie rozdrapuje swoje rany, Aerie trzyma³a siê dawnej, okrutniejszej wersji wydarzeñ, by usprawiedliwiæ swoje cierpienia. Teraz, znaj¹c prozaiczn¹ prawdê, mo¿e wreszcie zacz¹æ rozwijaæ siê jako osoba – zostawiaj¹c przesz³oœæ za sob¹ i patrz¹c w przysz³oœæ.~
+@925  = ~Jeœli czegoœ siê dziœ nauczyliœmy, to tego, ¿e szczeroœæ jest bardzo wa¿na w zwi¹zkach. Mo¿e rodzice Aerie powinni byli jej wczeœniej powiedzieæ prawdê. Byæ mo¿e publiczne wywlekanie delikatnych spraw na forum ca³ego œwiata jest zdrowe. Zostawiam was z t¹ myœl¹. Do zobaczenia!~ [JZ905]
+@926  = ~„Kto jest twoim tatusiem?”
+
+Okaza³o siê, ¿e Aerie wcale nie jest avarielem, tylko pó³elfk¹. A tyle jêków, u¿alania siê i dramatów... a nawet nie by³a maltretowana, ani nie mia³a prawdziwych skrzyde³, które by mog³a utraciæ!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// The basic dialogue
+// ------------------------------------------------------------------------------------------------------------------------
+@2000 = ~Dobry wieczór, mój panie. Obawiam siê, ¿e nie mamy ju¿ dziœ ¿adnych wystêpów.~ ~Dobry wieczór, moja pani. Obawiam siê, ¿e nie mamy ju¿ dziœ ¿adnych wystêpów.~
+@2001 = ~Dobry wieczór, mój panie. Ogl¹da³eœ ju¿ dzisiejszy program. Zapraszam innym razem.~ ~Dobry wieczór, moja pani. Ogl¹da³aœ ju¿ dzisiejszy program. Zapraszam innym razem.~
+@2002 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu, „Mój by³y to genialny z³oczyñca”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu, „Mój by³y to genialny z³oczyñca”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2003 = ~Tak, bardzo chêtnie obejrzê program.~
+@2004 = ~Tak, bardzo chêtnie obejrzymy program.~
+@2005 = ~Obawiam siê, ¿e nie mam tyle pieniêdzy.~
+@2006 = ~Nie, dziêki. Nie dzisiaj.~
+@2007 = ~Tak, panie. Têdy, proszê...~ ~Tak, pani. Têdy, proszê...~
+@2008 = ~Szkoda. Zapraszamy innym razem.~
+@2009 = ~Jak sobie ¿yczysz, panie. Zapraszam innym razem.~ ~Jak sobie ¿yczysz, pani. Zapraszam innym razem.~
+@2010 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Napiêcia rasowe”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Napiêcia rasowe”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2011 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Odejœcie z kochankiem”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Odejœcie z kochankiem”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2012 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Rodzina znów razem”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Rodzina znów razem”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2013 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Lesbijskie zapasy w kisielu”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Lesbijskie zapasy w kisielu”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2014 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Rycerze w bieliŸnie”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Rycerze w bieliŸnie”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2015 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Lateksowe gnomy”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Lateksowe gnomy”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2016 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Kochanka mojego mê¿a”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Kochanka mojego mê¿a”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2017 = ~Dobry wieczór, mój panie. Czy by³byœ zainteresowany obejrzeniem dzisiejszego programu „Kto jest twoim tatusiem”? Koszt to dziesiêæ sztuk z³ota od osoby.~ ~Dobry wieczór, moja pani. Czy by³abyœ zainteresowana obejrzeniem dzisiejszego programu „Kto jest twoim tatusiem”? Koszt to dziesiêæ sztuk z³ota od osoby.~
+@2018 = ~Dobry wieczór, mój panie. Obawiam siê, ¿e dziœ nie gramy ¿adnego programu. Zapraszamy póŸniej.~ ~Dobry wieczór, moja pani. Obawiam siê, ¿e dziœ nie gramy ¿adnego programu. Zapraszamy póŸniej.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// The crowd dialogue
+// ------------------------------------------------------------------------------------------------------------------------
+@2100 = ~Czy gnomy ju¿ by³y?~
+@2101 = ~Nie mogê siê doczekaæ lesbijek!~
+@2102 = ~Nie pchaj siê, miejsca starczy dla wszystkich.~
+@2103 = ~Na co siê gapisz?~
+@2104 = ~Jestem najwiêkszym fanem Jerry'ego! Na zawsze! NA ZAWSZE!~
+@2105 = ~Oj, przepraszam... fasola na obiad.~ [JZFART]
+@2106 = ~Mam nadziejê, ¿e w nastêpnym odcinku bêdzie jakaœ bójka. Przemoc... jest sexy.~
+@2107 = ~Hej, piêkna. Co robisz po programie?~
+@2108 = ~Chcesz zobaczyæ mojego zingera?~
+@2109 = ~Myœla³em, ¿e to klub ze striptizem! Chcê zwrotu z³ota!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// The drunk dialogue
+// ------------------------------------------------------------------------------------------------------------------------
+@2200 = ~Ten program jeszt najlep... najlep... *czka* Jerry powinien zostaæ nasztêpnym przewodnicz¹cym Rady Szcz... Szeœciu.~
+@2201 = ~Szeee... szeeerio! Coraz wiêcej lasek ca³uje sziê z laskami. Nie narzekam!~
+@2202 = ~Ech, ciê¿ko czasem zasn¹æ. Te programy s¹ przeklêcie g³oœne.~
+@2203 = ~W zesz³ym tygodniu jakaœ baba usiad³a mi na kolanach. By³em szczêœliwy... dopóki nie z³apa³em j¹ za ty³ek i nie poczu³em... nieszpodzianki. Od razu mnie otrzeŸwi³o.~
+@2204 = ~Jeszcze raz to samo, ch³opcze.~ ~Jeszcze raz to samo, dziewczyno.~
+@2205 = ~Daj trochê drobnych, ¿ebym móg³ kupiæ lekarstwo!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// The hawker dialogue
+// ------------------------------------------------------------------------------------------------------------------------
+@2300 = ~Proszê podejœæ! Zapraszamy wszystkich! Obejrzyj s³ynne Show Jerry'ego Zingera! Têdy, panie.~ ~Proszê podejœæ! Zapraszamy wszystkich! Obejrzyj s³ynne Show Jerry'ego Zingera! Têdy, pani.~
+@2301 = ~Nie interesuje mnie to.~
+@2302 = ~Co to jest to ca³e Show Jerry'ego Zingera?~
+@2303 = ~Ekscytuj¹cy i zabawny program, za ka¿dym razem inny, odkrywaj¹cy mroczne sekrety wyj¹tkowych goœci.~
+@2304 = ~Brzmi ciekawie!~
+@2305 = ~Przez drzwi za mn¹, panie.~ ~Przez drzwi za mn¹, pani.~
+@2306 = ~Jak chcesz. Hej, ty tam! ChodŸ tu...~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// The barkeep dialogue
+// ------------------------------------------------------------------------------------------------------------------------
+@2400 = ~W czym mogê pomóc, panie?~ ~W czym mogê pomóc, pani?~
+@2401 = ~Chcê siê napiæ.~
+@2402 = ~Chcê odpowiedzi na parê pytañ.~
+@2403 = ~Chcê obejrzeæ program.~
+@2404 = ~Oczywiœcie, panie.~ ~Oczywiœcie, pani.~
+@2405 = ~Pytania, tak? To szybko, mam klientów, którymi muszê siê zaj¹æ.~
+@2406 = ~Co to za miejsce?~
+@2407 = ~Jak mogê obejrzeæ program?~
+@2408 = ~Znajdzie siê tu mo¿e jakaœ robota?~
+@2409 = ~Kim jesteœ?~
+@2410 = ~To studio Jerry'ego Zingera, tu odbywaj¹ siê wszystkie programy. A ty, panie, stoisz przed barem. Chcesz siê napiæ?~ ~To studio Jerry'ego Zingera, tu odbywaj¹ siê wszystkie programy. A ty, pani, stoisz przed barem. Chcesz siê napiæ?~
+@2411 = ~Tak, chcê siê napiæ.~
+@2412 = ~Mam wiêcej pytañ.~
+@2413 = ~Nie, muszê ju¿ iœæ. Dziêki za informacje.~
+@2414 = ~Porozmawiaj z recepcjonistk¹ przy wejœciu. Bilety kosztuj¹ dziesiêæ sztuk z³ota za osobê.~
+@2415 = ~Dziêki, ale muszê lecieæ. Dziêki za informacje.~
+@2416 = ~O tak! Potrzebujê kogoœ do roznoszenia trunków, sprz¹tania pod³ogi co wieczór i gotowania mi obiadu. Jesteœ zainteresowany?~ ~O tak! Potrzebujê kogoœ do roznoszenia trunków, sprz¹tania pod³ogi co wieczór i gotowania mi obiadu. Jesteœ zainteresowana?~
+@2417 = ~Liczy³em na coœ trochê bardziej... ekscytuj¹cego.~ ~Liczy³am na coœ trochê bardziej... ekscytuj¹cego.~
+@2418 = ~To absurd. ZejdŸ mi z oczu.~
+@2419 = ~Du¿o masz chêtnych na tê pracê?~
+@2420 = ~A czy ja wygl¹dam na urz¹d pracy? Podajê drinki. Chcesz jednego?~
+@2421 = ~Niezbyt wielu, szczerze mówi¹c. No trudno...~
+@2422 = ~Co? Jestem tylko barmanem.~
+@2423 = ~Jak¿e nieuprzejmie! Proszê zrobiæ miejsce dla p³ac¹cych klientów, panie.~ ~Jak¿e nieuprzejmie! Proszê zrobiæ miejsce dla p³ac¹cych klientów, pani.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Pssst... The bar rumours... ;)
+// ------------------------------------------------------------------------------------------------------------------------
+@2500 = ~Ogr Bob mo¿e byæ zakapturzonym czarodziejem przebranym w kostium. Widziano go kilka razy z miot³¹, która mo¿e byæ prymitywn¹ form¹ kostura. Zalecana ostro¿noœæ.~
+@2501 = ~W zesz³ym tygodniu urodzi³o siê dziecko z dwiema g³owami, dwoma cia³ami i oœmioma koñczynami. Matka podobno mówi, ¿e jej „ul¿y³o”.~
+@2502 = ~Ekipa produkcyjna Jerry'ego Zingera stale pracuje nad nowymi pomys³ami na odcinki – podobno szukaj¹ te¿ nowych talentów.~
+@2503 = ~Jedynym powodem, dla którego recepcjonistka nadal ma pracê, jest to, ¿e sypia z re¿yserem. Szokuj¹ce faworyzowanie, prawda?~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Scripts - JZCRWD.baf
+// ------------------------------------------------------------------------------------------------------------------------
+@3000 = ~Buuu!~
+@3001 = ~*klaszcze*~
+@3002 = ~Taaaa!~
+@3003 = ~Bijcie siê!~
+@3004 = ~Jerry! Jerry! Jerry!~
+@3005 = ~Sekrety!~
+@3006 = ~Lesbijki!~
+@3007 = ~*gwi¿d¿e*~
+@3008 = ~Ale¿ s³odkie *chlipie*.~
+@3009 = ~Aaaach...~
+@3010 = ~Seb!~
+@3011 = ~Steve!~
+@3012 = ~Rozebraæ go!~
+@3013 = ~Hahaha!~
+@3014 = ~*rechocze*~
+@3015 = ~Ooo!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Scripts - JZCount.baf and JZKeep.baf
+// ------------------------------------------------------------------------------------------------------------------------
+@3100 = ~Bilety! Proszê okazaæ bilety.~
+@3101 = ~A³a! Przestañ, bo wezwê ochronê.~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Cutscenes - JZEP502.baf
+// ------------------------------------------------------------------------------------------------------------------------
+@3300 = ~Kim jesteœ? Co ty wyprawiasz?~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Cutscenes - JZEP503.baf
+// ------------------------------------------------------------------------------------------------------------------------
+@3400 = ~Ratunku! Mamo!~
+
+// ------------------------------------------------------------------------------------------------------------------------
+// Cutscenes - JZEP903.baf
+// ------------------------------------------------------------------------------------------------------------------------
+@3500 = ~*szlocha* CO SIÊ TU DZIEJE?~

@@ -26,6 +26,15 @@
 @24  = ~Come one, come all! The Jerry Zinger show, right this way.~
 @25  = ~Throne of Bhaal required.~
 
+// untraified content - barkeeper store //
+@31  = ~Cola~
+@32  = ~Coffee~
+@33  = ~Cheap Beer~
+@34  = ~House White~
+@35  = ~Gin & Tonic~
+@36  = ~XXXX Spirits~
+@37  = ~Definitely Not Tea~
+
 // ------------------------------------------------------------------------------------------------------------------------
 // EP1 - "My ex is an evil mastermind" (Irenicus, Ellesime)
 // ------------------------------------------------------------------------------------------------------------------------
@@ -226,11 +235,11 @@ It's sad to see such great gnomes reduced to such depraved activities.~
 @802  = ~Good <DAYNIGHT> to you, Jerry.~ [JZBLANK]
 @803  = ~I hear you are very busy doing the Most Radiant's work. No time to rejoice with loved ones, eh?~ [JZ803]
 @804  = ~Being a Most Radiant Paladin is a tough job, Jerry, I'm afraid.~
-@805  = ~Well, what would you say if I told you that backstage there is someone waiting you haven’t seen in a very long time?~ [JZ804]
+@805  = ~Well, what would you say if I told you that backstage there is someone waiting you havenÂ’t seen in a very long time?~ [JZ804]
 @806  = ~Really? Who?~
 @807  = ~Well, your wife of course! People, please welcome Lady Firecam!~ [JZ805]
 @808  = ~Hello, Jerry. Thank you for inviting me.~
-@809  = ~Maria! I’m overjoyed to see you.~
+@809  = ~Maria! IÂ’m overjoyed to see you.~
 @810  = ~Yeah, yeah.~
 @811  = ~Erm? Maria?~
 @812  = ~Now, Lady Maria, what was it you wanted to tell your husband?~ [JZ806]
@@ -241,7 +250,7 @@ It's sad to see such great gnomes reduced to such depraved activities.~
 @817  = ~LIAR!~
 @818  = ~Now shall we see what the accused drow has to say to this? Please welcome Viconia DeVir!~ [JZ807]
 @819  = ~Jerry, I demand an explanation. I would never touch this abomination in my entire life!~
-@820  = ~Abomination? I wasn’t an abomination last time you knocked to have your (beep) sucked, you (beep)! You want that (beep), woman?~ [JZBEEP2]
+@820  = ~Abomination? I wasnÂ’t an abomination last time you knocked to have your (beep) sucked, you (beep)! You want that (beep), woman?~ [JZBEEP2]
 @821  = ~I don't want him! I want only his (beep) ripped right off him!~ [JZBEEP3]
 @822  = ~Lying bitch harpy!~
 @823  = ~Well, folks, another couple happily united!~ [JZ808]

@@ -517,14 +517,14 @@ COPY ~jz/items/jzblun.itm~ ~override~
 // --------------- */
 
 COPY ~jz/stores/jzstore.sto~ ~override~
-	SAY 0xc ~Barkeeper~
-	SAY 0xa4 ~Cola~
-	SAY 0xb8 ~Coffee~
-	SAY 0xcc ~Cheap Beer~
-	SAY 0xe0 ~House White~
-	SAY 0xf4 ~Gin & Tonic~
-	SAY 0x108 ~XXXX Spirits~
-	SAY 0x11c ~Definitely Not Tea~
+	SAY 0xc @11
+	SAY 0xa4 @31
+	SAY 0xb8 @32
+	SAY 0xcc @33
+	SAY 0xe0 @34
+	SAY 0xf4 @35
+	SAY 0x108 @36
+	SAY 0x11c @37
 
 // Rumours
 // -------
